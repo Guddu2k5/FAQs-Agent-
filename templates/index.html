@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>REVA University | Student Info & AI Assistant</title>
+  <link rel="icon" type="image/x-icon" href="{{ url_for('static', filename='images/favicon/favicon.ico') }}">
+  <link rel="icon" type="image/png" sizes="16x16"
+    href="{{ url_for('static', filename='images/favicon/favicon-16.png') }}">
+  <link rel="icon" type="image/png" sizes="32x32"
+    href="{{ url_for('static', filename='images/favicon/favicon-32.png') }}">
+  <link rel="icon" type="image/png" sizes="192x192"
+    href="{{ url_for('static', filename='images/favicon/favicon-192.png') }}">
+  <link rel="apple-touch-icon" sizes="180x180"
+    href="{{ url_for('static', filename='images/favicon/apple-touch-icon.png') }}">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.2/marked.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+</head>
+
+<body>
+
+  <!-- NAV -->
+  <nav class="nav">
+    <div class="nav-brand">
+      <div class="logo-wrap">
+        <img id="site-logo" src="{{ url_for('static', filename='images/logo.jpg') }}" alt="REVA University Logo" />
+        <svg class="logo-svg" id="logo-fallback" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+          <rect width="40" height="40" rx="10" fill="#161616" />
+          <path
+            d="M12 30V10h9c4 0 7 2.5 7 6.5 0 3-1.8 5-4.5 6L28 30h-5.5l-4-7H16v7h-4zm4-10.5h4.5c2 0 3-1 3-2.8s-1-2.7-3-2.7H16v5.5z"
+            fill="#FF6B1A" />
+        </svg>
+      </div>
+    </div>
+
+
+    <div class="nav-links">
+      <a href="#admissions">Admissions</a>
+      <a href="#courses">Courses</a>
+      <a href="#campus">Campus</a>
+      <a href="/gallery">Gallery</a>
+      <a href="#rankings">Rankings</a>
+      <a href="#placements">Placements</a>
+      <a href="#contact">Contact</a>
+    </div>
+  </nav>
+
+  <!-- HERO WITH VIDEO BACKGROUND -->
+  <section class="hero-video-section">
+    <video class="hero-video" autoplay muted loop playsinline
+      poster="{{ url_for('static', filename='images/hero-poster.jpg') }}">
+      <source src="{{ url_for('static', filename='images/reva.mp4') }}" type="video/mp4">
+    </video>
+    <div class="hero-video-overlay"></div>
+    <div class="hero-video-content">
+      <h1>Study. Grow. Belong.<br>Welcome to REVA University.</h1>
+      <p>100+ programmes. 45+ acre campus. A community of 16,000+ students.</p>
+      <button class="cta-btn" id="hero-cta">💬 Ask the AI Assistant</button>
+    </div>
+  </section>
+
+  <!-- STATS STRIP -->
+  <section class="stats-strip">
+    <div class="stat">
+      <h2>4,050</h2>
+      <p>Total Offers</p>
+    </div>
+    <div class="stat">
+      <h2>450+</h2>
+      <p>Recruiting Partners</p>
+    </div>
+    <div class="stat">
+      <h2>56 LPA</h2>
+      <p>Highest CTC</p>
+    </div>
+    <div class="stat">
+      <h2>45+</h2>
+      <p>Acres of Campus</p>
+    </div>
+    <div class="stat">
+      <h2>16,000+</h2>
+      <p>Student Community</p>
+    </div>
+  </section>
+
+  <!-- ADMISSIONS — light section, left-aligned layout -->
+  <section id="admissions" class="feature-section feature-light">
+    <div class="feature-inner">
+      <div class="feature-text">
+        <span class="feature-tag">📝 Admissions</span>
+        <h2>Start your journey at REVA</h2>
+        <p>Applications go through the official REVA admissions portal. Entry is based on REVA CET, KCET, JEE Main,
+          COMEDK, CLAT, NATA, or merit - depending on your programme. Scholarships like REVA RISE reward strong KCET
+          ranks with tuition waivers.</p>
+        <button class="ask-btn" data-question="What is the admission process at REVA University?">Ask about
+          admissions</button>
+      </div>
+      <div class="feature-visual img-placeholder"
+        data-img="{{ url_for('static', filename='images/admissionLogo.jpg') }}">📝</div>
+    </div>
+  </section>
+
+  <!-- COURSES — dark inverted section, right-aligned layout -->
+  <section id="courses" class="feature-section feature-dark">
+    <div class="feature-inner reverse">
+      <div class="feature-visual img-placeholder"
+        data-img="{{ url_for('static', filename='images/course_program.jpg') }}">🎓</div>
+      <div class="feature-text">
+        <span class="feature-tag feature-tag-dark">🎓 Courses & Programmes</span>
+        <h2>100+ programmes across 16+ schools</h2>
+        <p>B.Tech, MBA, MCA, BCA, Law, B.Arch, and more — spanning Engineering, Management, Law, Architecture, Science,
+          and Liberal Studies. New-age specializations include AI & Data Science, Cybersecurity, and IoT.</p>
+        <button class="ask-btn ask-btn-dark" data-question="What courses and schools does REVA University offer?">Ask
+          about courses</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- CAMPUS — background image section -->
+  <section id="campus" class="feature-orange life-reva-section">
+
+    <!-- Background image layer (safe to clear via JS — no children) -->
+    <div class="life-reva-bg img-placeholder" data-img="{{ url_for('static', filename='images/life_reva.jpg') }}">
+    </div>
+
+    <!-- Dark overlay for text readability -->
+    <div class="life-reva-overlay"></div>
+
+    <!-- Section content -->
+    <div class="life-reva-content">
+      <span class="section-badge">LIFE @ REVA</span>
+      <h2>A 45-acre campus built for student life</h2>
+      <p>Experience a vibrant campus filled with opportunities, friendships, and unforgettable memories.</p>
+      <button class="ask-btn ask-btn-white" data-question="Does REVA University have hostel facilities?">Ask about
+        campus life</button>
+    </div>
+  </section>
+
+
+
+  <!-- LIGHTBOX (zoom modal) -->
+  <div class="lightbox" id="lightbox">
+    <button class="lightbox-close" id="lightbox-close">✕</button>
+    <img id="lightbox-img" src="" alt="Zoomed photo" />
+    <div class="lightbox-caption" id="lightbox-caption"></div>
+  </div>
+
+  <!-- RANKINGS -->
+  <section id="rankings" class="rankings-section">
+    <h2 class="section-title">Rankings & Accreditation</h2>
+    <div class="badges-row">
+      <div class="badge">🏅 NAAC <strong>A+</strong></div>
+      <div class="badge">📊 NIRF <strong>151–200</strong> band</div>
+      <div class="badge">✅ NBA Accredited (select programmes)</div>
+      <div class="badge">💎 QS I-Gauge <strong>Diamond</strong></div>
+      <div class="badge">🌏 QS Asia <strong>1001–1100</strong></div>
+      <div class="badge">🏢 REVA Business School — AACSB Member</div>
+    </div>
+  </section>
+
+  <!-- PLACEMENTS — dark section with real logo marquee -->
+  <section id="placements" class="feature-section feature-dark placements-section-dark">
+    <h2 class="section-title" style="color:white;">Placement Partners</h2>
+    <p class="section-sub" style="color:#bbb;">450+ recurring recruiters work with REVA's Career Development Centre —
+      including:</p>
+
+    <div class="logo-marquee-wrap">
+      <div class="logo-marquee">
+        <div class="logo-card"><img src="{{ url_for('static', filename='images/companies/microsoft.png') }}"
+            alt="Microsoft" /></div>
+        <div class="logo-card"><img src="{{ url_for('static', filename='images/companies/amazon.png') }}"
+            alt="Amazon" /></div>
+        <div class="logo-card"><img src="{{ url_for('static', filename='images/companies/google.png') }}"
+            alt="Google" /></div>
+        <div class="logo-card"><img src="{{ url_for('static', filename='images/companies/ibm.png') }}" alt="IBM" />
+        </div>
+        <div class="logo-card"><img src="{{ url_for('static', filename='images/companies/tcs.png') }}" alt="TCS" />
+        </div>
+        <div class="logo-card"><img src="{{ url_for('static', filename='images/companies/infosys.png') }}"
+            alt="Infosys" /></div>
+        <div class="logo-card"><img src="{{ url_for('static', filename='images/companies/wipro.png') }}" alt="Wipro" />
+        </div>
+        <div class="logo-card"><img src="{{ url_for('static', filename='images/companies/cognizant.png') }}"
+            alt="Cognizant" /></div>
+        <div class="logo-card"><img src="{{ url_for('static', filename='images/companies/accenture.png') }}"
+            alt="Accenture" /></div>
+        <div class="logo-card"><img src="{{ url_for('static', filename='images/companies/deloitte.png') }}"
+            alt="Deloitte" /></div>
+        <div class="logo-card"><img src="{{ url_for('static', filename='images/companies/EY.png') }}" alt="EY" /></div>
+        <div class="logo-card"><img src="{{ url_for('static', filename='images/companies/boeing.png') }}"
+            alt="Boeing" /></div>
+        <!-- duplicate set for seamless infinite scroll -->
+        <div class="logo-card"><img src="{{ url_for('static', filename='images/companies/microsoft.png') }}"
+            alt="Microsoft" /></div>
+        <div class="logo-card"><img src="{{ url_for('static', filename='images/companies/amazon.png') }}"
+            alt="Amazon" /></div>
+        <div class="logo-card"><img src="{{ url_for('static', filename='images/companies/google.png') }}"
+            alt="Google" /></div>
+        <div class="logo-card"><img src="{{ url_for('static', filename='images/companies/ibm.png') }}" alt="IBM" />
+        </div>
+        <div class="logo-card"><img src="{{ url_for('static', filename='images/companies/tcs.png') }}" alt="TCS" />
+        </div>
+        <div class="logo-card"><img src="{{ url_for('static', filename='images/companies/infosys.png') }}"
+            alt="Infosys" /></div>
+        <div class="logo-card"><img src="{{ url_for('static', filename='images/companies/wipro.png') }}" alt="Wipro" />
+        </div>
+        <div class="logo-card"><img src="{{ url_for('static', filename='images/companies/cognizant.png') }}"
+            alt="Cognizant" /></div>
+        <div class="logo-card"><img src="{{ url_for('static', filename='images/companies/accenture.png') }}"
+            alt="Accenture" /></div>
+        <div class="logo-card"><img src="{{ url_for('static', filename='images/companies/deloitte.png') }}"
+            alt="Deloitte" /></div>
+        <div class="logo-card"><img src="{{ url_for('static', filename='images/companies/EY.png') }}" alt="EY" /></div>
+        <div class="logo-card"><img src="{{ url_for('static', filename='images/companies/boeing.png') }}"
+            alt="Boeing" /></div>
+      </div>
+    </div>
+
+    <p class="placeholder-note" style="color:#888;">Highest CTC 56 LPA, 4,050 total offers (most recent placement
+      season). Figures update annually — ask the assistant or check the official website for current numbers.</p>
+  </section>
+
+  <div class="section-divider"></div>
+
+  <!-- WHY REVA -->
+  <section class="why-section">
+    <h2 class="section-title">Why Students Choose REVA</h2>
+    <div class="why-grid">
+      <div class="why-card">
+        <p>"The Career Development Centre gave me real interview practice from year one — it made a genuine difference."
+        </p>
+        <span class="why-tag">— Placements, student feedback (illustrative)</span>
+      </div>
+      <div class="why-card">
+        <p>"Hostel life, clubs, and the fest culture made campus feel like home outside of class."</p>
+        <span class="why-tag">— Campus life, student feedback (illustrative)</span>
+      </div>
+      <div class="why-card">
+        <p>"Faculty were approachable, and the lab access outside class hours really helped with projects."</p>
+        <span class="why-tag">— Academics, student feedback (illustrative)</span>
+      </div>
+    </div>
+    <p class="placeholder-note">These are illustrative summaries, not verified individual quotes. Real testimonials
+      should only be added with the named student's permission.</p>
+  </section>
+
+  <!-- CONTACT / FOOTER -->
+  <footer id="contact" class="footer">
+    <div class="footer-content">
+      <div>
+        <h3>REVA University</h3>
+        <p>Rukmini Knowledge Park, Kattigenahalli,<br>Yelahanka, Bengaluru - 560064</p>
+      </div>
+      <div>
+        <h3>Contact</h3>
+        <p>info@reva.edu.in<br>+91-80-46966966</p>
+      </div>
+      <div>
+        <h3>Admissions</h3>
+        <p>admissions@reva.edu.in<br>+91-90211 90211</p>
+      </div>
+      <div>
+        <h3>Follow REVA</h3>
+        <div class="social-row">
+          <a href="https://www.linkedin.com/school/reva-university/" target="_blank" rel="noopener" title="LinkedIn">
+            <i class="fa-brands fa-square-linkedin" style="color: rgb(56, 121, 232);"></i>
+          </a>
+          <a href="https://www.instagram.com/revauniversity_official/" target="_blank" rel="noopener" title="Instagram">
+            <i class="fa-brands fa-instagram" style="color: rgb(223, 36, 226);"></i>
+          </a>
+          <a href="https://www.facebook.com/REVAUniversityofficial/" target="_blank" rel="noopener" title="Facebook">
+            <i class="fa-brands fa-square-facebook" style="color: rgb(24, 119, 242);"></i>
+          </a>
+          <a href="https://twitter.com/REVAuniversity" target="_blank" rel="noopener" title="X / Twitter">
+            <i class="fa-brands fa-square-x-twitter" style="color: rgb(255,255,255);"></i>
+          </a>
+          <a href="https://www.youtube.com/@revauniversity_official" target="_blank" rel="noopener" title="YouTube">
+            <i class="fa-brands fa-youtube" style="color: rgb(255, 0, 0);"></i>
+          </a>
+          <a href="https://api.whatsapp.com/send?phone=919021190211&text=hi" target="_blank" rel="noopener"
+            title="WhatsApp">
+            <i class="fa-brands fa-square-whatsapp" style="color: rgb(37, 227, 29);"></i>
+          </a>
+        </div>
+      </div>
+      <div>
+        <h3>Find Us</h3>
+        <div class="footer-map-wrap">
+          <iframe src="https://maps.google.com/maps?q=13.116833,77.636250&z=15&output=embed" width="100%" height="140"
+            style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+            title="REVA University Location">
+          </iframe>
+        </div>
+        <a href="https://www.google.com/maps/search/?api=1&query=REVA+University,+Bengaluru,+Ka,+560064,+in&query_place_id=ChIJ0x9lGnIZrjsR9gD2KP4l4t4"
+          target="_blank" rel="noopener" class="map-link">Open in Google Maps →</a>
+      </div>
+    </div>
+    <p class="footer-note">This is a student project demo, not an official REVA University service. Social handles are
+      real REVA accounts, linked for reference only.</p>
+  </footer>
+
+  <!-- FLOATING CHAT BUBBLE -->
+  <button id="chat-bubble" aria-label="Open chat assistant">💬</button>
+
+  <!-- CHAT WIDGET PANEL -->
+  <div class="chat-widget" id="chat-widget">
+    <div class="chat-container">
+      <header class="chat-header">
+        <div class="chat-header-left">
+          <div class="logo-circle">
+            <span>🎓</span>
+            <span class="status-dot"></span>
+          </div>
+          <div>
+            <h1>Akshara-Lite</h1>
+            <p class="subtitle">● Online — REVA University Assistant</p>
+          </div>
+        </div>
+        <div class="header-actions">
+          <button id="new-chat-btn" title="New chat">
+            <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M23 4v6h-6M1 20v-6h6" />
+              <path d="M3.51 9a9 9 0 0114.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0020.49 15" />
+            </svg>
+          </button>
+          <button id="chat-close" title="Close">
+            <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 6L6 18M6 6l12 12" />
+            </svg>
+          </button>
+        </div>
+      </header>
+
+      <div class="chat-messages" id="chat-messages">
+        <div class="message bot">
+          <div class="msg-avatar">🎓</div>
+          <div class="bubble">
+            👋 Hi! I'm here to help with questions about admissions, fees, hostel, courses, and more at REVA University.
+          </div>
+        </div>
+      </div>
+
+      <div class="suggested-questions" id="suggested-questions">
+        <button class="chip">✨ What is the admission process?</button>
+        <button class="chip">🏠 Tell me about hostel facilities</button>
+        <button class="chip">🎓 What specializations does B.Tech offer?</button>
+        <button class="chip">📞 How do I contact REVA?</button>
+      </div>
+
+      <div class="chat-footer-actions">
+        <button id="human-btn" class="footer-action-btn">🙋 Talk to a real person</button>
+        <button id="end-chat-btn" class="footer-action-btn">🔚 End chat</button>
+      </div>
+
+      <div class="chat-input-area">
+        <input type="text" id="user-input" placeholder="Ask me anything about REVA..." spellcheck="false" />
+        <button id="send-btn" title="Send">
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M22 2L11 13" />
+            <path d="M22 2l-7 20-4-9-9-4 20-7z" />
+          </svg>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+
+</html>

@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>REVA University | Full Gallery</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.2/marked.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+</head>
+
+<body>
+
+    <!-- NAV -->
+    <nav class="nav">
+        <a href="/" class="nav-brand">
+            <div class="logo-wrap">
+                <img id="site-logo" src="{{ url_for('static', filename='images/logo.jpg') }}"
+                    alt="REVA University Logo" />
+                <svg class="logo-svg" id="logo-fallback" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+                    <rect width="40" height="40" rx="10" fill="#161616" />
+                    <path
+                        d="M12 30V10h9c4 0 7 2.5 7 6.5 0 3-1.8 5-4.5 6L28 30h-5.5l-4-7H16v7h-4zm4-10.5h4.5c2 0 3-1 3-2.8s-1-2.7-3-2.7H16v5.5z"
+                        fill="#FF6B1A" />
+                </svg>
+            </div>
+        </a>
+        <div class="nav-links">
+            <a href="/">← Back to Home</a>
+        </div>
+    </nav>
+
+    <!-- PAGE HEADER -->
+    <section class="gallery-page-header">
+        <h1>Full Campus Gallery</h1>
+        <p>Every photo of REVA University life, fests, and campus in one place.</p>
+    </section>
+
+    <!-- FULL GALLERY GRID (all photos, no limit) -->
+    <section class="gallery-section gallery-page-full">
+        <div class="gallery-grid">
+  {% for img in gallery_images %}
+  <div class="img-placeholder gallery-item" data-img="{{ url_for('static', filename='images/' + img.file) }}" data-caption="{{ img.caption }}"></div>
+  {% endfor %}
+</div>
+    </section>
+
+
+        <!-- LIGHTBOX (zoom modal) -->
+        <div class="lightbox" id="lightbox">
+            <button class="lightbox-close" id="lightbox-close">✕</button>
+            <img id="lightbox-img" src="" alt="Zoomed photo" />
+            <div class="lightbox-caption" id="lightbox-caption"></div>
+        </div>
+
+        <!-- FOOTER -->
+        <footer id="contact" class="footer">
+            <div class="footer-content">
+                <div>
+                    <h3>REVA University</h3>
+                    <p>Rukmini Knowledge Park, Kattigenahalli,<br>Yelahanka, Bengaluru - 560064</p>
+                </div>
+                <div>
+                    <h3>Contact</h3>
+                    <p>info@reva.edu.in<br>+91-80-46966966</p>
+                </div>
+                <div>
+                    <h3>Admissions</h3>
+                    <p>admissions@reva.edu.in<br>+91-90211 90211</p>
+                </div>
+                <div>
+                    <h3>Follow REVA</h3>
+                    <div class="social-row">
+                        <a href="https://www.linkedin.com/school/reva-university/" target="_blank" rel="noopener"
+                            title="LinkedIn">
+                            <i class="fa-brands fa-square-linkedin" style="color: rgb(56, 121, 232);"></i>
+                        </a>
+                        <a href="https://www.instagram.com/revauniversity_official/" target="_blank" rel="noopener"
+                            title="Instagram">
+                            <i class="fa-brands fa-instagram" style="color: rgb(223, 36, 226);"></i>
+                        </a>
+                        <a href="https://www.facebook.com/REVAUniversityofficial/" target="_blank" rel="noopener"
+                            title="Facebook">
+                            <i class="fa-brands fa-square-facebook" style="color: rgb(24, 119, 242);"></i>
+                        </a>
+                        <a href="https://twitter.com/REVAuniversity" target="_blank" rel="noopener" title="X / Twitter">
+                            <i class="fa-brands fa-square-x-twitter" style="color: rgb(255,255,255);"></i>
+                        </a>
+                        <a href="https://www.youtube.com/@revauniversity_official" target="_blank" rel="noopener"
+                            title="YouTube">
+                            <i class="fa-brands fa-youtube" style="color: rgb(255, 0, 0);"></i>
+                        </a>
+                        <a href="https://api.whatsapp.com/send?phone=919021190211&text=hi" target="_blank"
+                            rel="noopener" title="WhatsApp">
+                            <i class="fa-brands fa-square-whatsapp" style="color: rgb(37, 227, 29);"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <p class="footer-note">This is a student project demo, not an official REVA University service. Social
+                handles are real REVA accounts, linked for reference only.</p>
+        </footer>
+
+        <!-- FLOATING CHAT BUBBLE -->
+        <button id="chat-bubble" aria-label="Open chat assistant">💬</button>
+
+        <!-- CHAT WIDGET PANEL -->
+        <div class="chat-widget" id="chat-widget">
+            <div class="chat-container">
+                <header class="chat-header">
+                    <div class="logo-circle">🎓</div>
+                    <div>
+                        <h1>Akshara-Lite</h1>
+                        <p class="subtitle">Your REVA University FAQ Assistant</p>
+                    </div>
+                    <div class="header-actions">
+                        <button id="new-chat-btn" title="New chat">🔄</button>
+                        <button id="chat-close" title="Close">✕</button>
+                    </div>
+                </header>
+
+                <div class="chat-messages" id="chat-messages">
+                    <div class="message bot">
+                        <div class="bubble">
+                            👋 Hi! I'm here to help with questions about admissions, fees, hostel, courses, and more at
+                            REVA University.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="suggested-questions" id="suggested-questions">
+                    <button class="chip">What is the admission process?</button>
+                    <button class="chip">Tell me about hostel facilities</button>
+                    <button class="chip">What specializations does B.Tech offer?</button>
+                    <button class="chip">How do I contact REVA?</button>
+                </div>
+
+                <div class="chat-footer-actions">
+                    <button id="human-btn" class="footer-action-btn">🙋 Talk to a real person</button>
+                    <button id="end-chat-btn" class="footer-action-btn">🔚 End chat</button>
+                </div>
+
+                <div class="chat-input-area">
+                    <input type="text" id="user-input" placeholder="Type your question..." />
+                    <button id="send-btn">Send</button>
+                </div>
+            </div>
+        </div>
+
+        <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+
+</html>

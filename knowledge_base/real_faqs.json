@@ -1,0 +1,1164 @@
+[
+  {
+    "id": "faq_001",
+    "question": "What is REVA University and where is it located?",
+    "answer": "REVA University is a private university established in 2012 under the Government of Karnataka Act, managed by the Rukmini Educational Charitable Trust. It is located at Rukmini Knowledge Park, Kattigenahalli, Yelahanka, Bengaluru - 560064, Karnataka, India. It is NAAC A+ accredited."
+  },
+  {
+    "id": "faq_002",
+    "question": "What courses and schools does REVA University offer?",
+    "answer": "REVA University offers UG, PG, and doctoral programmes across Engineering and Technology, Architecture, Commerce and Management Studies, Arts, Humanities and Social Sciences, Science and Technology, Law, and Performing Arts and Indic Studies. It is organized into schools including the School of Computer Science and Engineering, School of Computing and Information Technology, School of Electrical and Electronics Engineering, and several others."
+  },
+  {
+    "id": "faq_003",
+    "question": "What is the admission process at REVA University?",
+    "answer": "Admission is via the official REVA University admissions portal. Depending on the programme, entry is based on REVA CET, national/state-level entrance exams (KCET, JEE Main, COMEDK, CUET for B.Tech; CLAT or REVA CET for Law; NATA or JEE Paper 2 for B.Arch; REVA PET followed by interview for PhD), merit, or a personal interview. Applications can be submitted online or offline at the Office of Admissions. The application fee is INR 500 or INR 1000 depending on the programme."
+  },
+  {
+    "id": "faq_004",
+    "question": "What scholarships does REVA University offer?",
+    "answer": "REVA University offers the REVA RISE scholarship. To continue receiving it, students must maintain a minimum of 90% attendance and a 9.0 SGPA/CGPA every semester with no backlogs; eligibility is decided at the time of admission. Students with a KCET rank up to 2000 (for B.Tech CSE) or up to 5000 (for other B.Tech branches) are eligible for a 50% tuition fee waiver."
+  },
+  {
+    "id": "faq_005",
+    "question": "Does REVA University have hostel facilities?",
+    "answer": "Yes, REVA University provides on-campus student housing (REVA Student Housing) for both boys and girls, separately. Rooms include amenities such as a writing board, 24-hour water and electricity, standby generators, and ramps/lifts for physically challenged students. For the exact current hostel fee structure, please contact the REVA admissions office directly, as this is not published on the official website and varies by room type."
+  },
+  {
+    "id": "faq_006",
+    "question": "Does REVA University provide transport facilities?",
+    "answer": "Yes, REVA University operates a fleet of buses covering most parts of Bengaluru city for students, staff, and faculty. Public transport via BMTC (Bengaluru Metropolitan Transport Corporation) is also available near the campus."
+  },
+  {
+    "id": "faq_007",
+    "question": "How do I reach REVA University campus?",
+    "answer": "REVA University is located at Rukmini Knowledge Park, Yelahanka, Bengaluru - 560064, and is accessible by road from the airport, railway stations, and city bus terminals. From Majestic, BMTC buses run toward BSF/IAF Station Yelahanka/Chikkajala; get down at Bagalur Cross and take an auto to campus. From Yelahanka Railway Station, take a BMTC bus to Bagalur Cross, then an auto to campus."
+  },
+  {
+    "id": "faq_008",
+    "question": "How are examinations conducted at REVA University?",
+    "answer": "REVA University conducts semester-wise examinations for all courses. The Office of Examination and Evaluation oversees the process and has adopted a tab-based, technology-driven examination and digital evaluation system to ensure transparency and timely results."
+  },
+  {
+    "id": "faq_009",
+    "question": "How do I contact REVA University?",
+    "answer": "General enquiries: info@reva.edu.in or +91-80-46966966. Admissions: admissions@reva.edu.in or +91-90211 90211 / +91-96112 01303 (office hours: 7 days a week, 8:30 am to 5:30 pm). Address: Rukmini Knowledge Park, Kattigenahalli, Yelahanka, Bengaluru - 560064."
+  },
+  {
+    "id": "faq_010",
+    "question": "What facilities are available on REVA University campus?",
+    "answer": "The 45-acre campus includes a health care centre with 24x7 resident doctors, a gym, a food court, an open-air theatre, auditoria, a central library, a campus radio station (REVA Dhwani), a brand store, and an in-house student magazine (REVA Insight). There is also a health insurance facility for students and tie-ups with nearby hospitals for emergencies."
+  },
+  {
+    "id": "faq_011",
+    "question": "What is the placement record of REVA University?",
+    "answer": "REVA University has a dedicated Career Development Centre (CDC) that acts as the placement cell, working with 450+ recurring recruiters across various industries. The CDC trains students from their first year in communication skills, group discussions, interview techniques, and leadership qualities, and organizes certification programmes, skill workshops, and placement boot camps. Regular recruiters include TCS, Infosys, Wipro, Cognizant, Accenture, IBM, Amazon, Microsoft, and Google. The most recent placement season recorded 4,050 total offers with a highest CTC of 56 LPA. Exact placement statistics are updated annually — check the official REVA University website's Placement section for the current year's figures."
+  },
+  {
+    "id": "faq_012",
+    "question": "Does REVA University have international collaborations?",
+    "answer": "Yes, REVA University has established international academic and research collaborations, including partnerships with St. George's University, University of Malaya, and Coventry University, among others. These are coordinated through the REVA International Relations and Research Collaborations Centre (REVA-IRRC), which facilitates student exchange programs, joint research projects, and academic partnerships spanning countries including the USA, UK, Canada, Europe, and ASEAN nations."
+  },
+  {
+    "id": "faq_013",
+    "question": "What extracurricular activities are available at REVA University?",
+    "answer": "REVA University encourages students to participate in various extracurricular activities including sports, cultural events, technical clubs, and student organizations. The university hosts annual fests, competitions, workshops, and seminars to promote holistic development."
+  },
+  {
+    "id": "faq_014",
+    "question": "What is the fee structure at REVA University?",
+    "answer": "The fee structure varies by programme and is subject to change. For accurate and up-to-date information on tuition fees, hostel fees, and other charges, it is recommended to contact the admissions office directly or visit the official REVA University website."
+  },
+  {
+    "id": "faq_015",
+    "question": "What is the B.Tech programme like at REVA University?",
+    "answer": "B.Tech at REVA University is a 4-year full-time undergraduate degree offered across multiple specializations, including Computer Science and Engineering, Electronics and Communication Engineering, Mechanical Engineering, Civil Engineering, and newer branches like AI & Data Science, AI & Machine Learning, and IoT & Cybersecurity. Eligibility requires 10+2 with Physics and Mathematics as compulsory subjects, plus Chemistry/Biology/Computer Science, with a minimum of 45% marks. Admission is based on REVA CET, KCET, JEE Main, or COMEDK scores, or merit. For exact current fees, contact the admissions office or check the official website, as fee figures reported across sources vary significantly and REVA does not publish exact figures on its main site."
+  },
+  {
+    "id": "faq_016",
+    "question": "What is the MBA programme like at REVA University?",
+    "answer": "MBA at REVA University is a 2-year full-time postgraduate programme offered through REVA Business School. It is a dual-specialization course, letting students choose two specializations from options that include Marketing, Finance, Human Resources, International Business, Operations Management, Banking & Insurance, and Entrepreneurship. Eligibility requires a 3-year Bachelor's degree with a minimum of 50% marks (45% for SC/ST/reserved categories). Admission is based on REVA CET, CAT, MAT, or CMAT scores, typically followed by Group Discussion and Personal Interview rounds. For exact current fees, contact the admissions office directly, as reported figures vary significantly across sources."
+  },
+  {
+    "id": "faq_017",
+    "question": "What is the PhD programme like at REVA University?",
+    "answer": "The PhD programme at REVA University is a research-focused doctoral programme offered across various disciplines. Eligibility requires a Master's degree in the relevant field with a minimum of 55% marks (50% for reserved categories). Admission is based on REVA PET followed by an interview. The programme involves coursework, research, and dissertation submission. For exact current fees and detailed information, contact the admissions office directly."
+  },
+  {
+    "id": "faq_018",
+    "question": "What is the B.Arch programme like at REVA University?",
+    "answer": "The B.Arch programme at REVA University is a 5-year full-time undergraduate degree in Architecture. Eligibility requires 10+2 with Mathematics as a compulsory subject and a minimum of 50% marks, or a 10+3 Diploma with Mathematics. Admission is based on NATA or JEE Paper 2 scores. The programme includes design studios, theoretical courses, and practical training. For exact current fees, contact the admissions office directly."
+  },
+  {
+    "id": "faq_019",
+    "question": "What is the MCA programme like at REVA University?",
+    "answer": "MCA (Master of Computer Applications) at REVA University is a 2-year full-time postgraduate degree, with a lateral entry option for BCA/B.Sc graduates who join directly into the 3rd semester. Regular admission requires a 3-year Bachelor's degree in a relevant field with a minimum of 50% aggregate. Lateral entry requires a 3-year Bachelor's in BCA/B.Sc with at least 50% aggregate and Mathematics studied at 10+2 or undergraduate level. For exact current fees, contact the admissions office directly, as reported figures vary across sources."
+  },
+  {
+    "id": "faq_020",
+    "question": "What is the BCA programme like at REVA University?",
+    "answer": "BCA (Bachelor of Computer Applications) at REVA University is typically a 3-year full-time undergraduate degree, with newer specialized 4-year variants available such as BCA in Artificial Intelligence & Machine Learning and BCA in Cyber Security & Digital Forensics. Eligibility requires a pass in PUC/10+2 with a minimum of 45% marks (40% for SC/ST category). Students without Mathematics/Computer Science/Statistics/IT as a compulsory 10+2 subject must complete a mandatory 15-hour bridge course in Mathematics Fundamentals. A 4th-year Honours with Research option is available for students who maintain 75%+ marks across the first six semesters. For exact current fees, contact the admissions office directly."
+  },
+  {
+    "id": "faq_021",
+    "question": "What law programmes does REVA University offer?",
+    "answer": "REVA University's School of Legal Studies offers B.A. LL.B. (Hons.) and B.B.A. LL.B. (Hons.), both 5-year integrated undergraduate programmes approved by the Bar Council of India (BCI), along with a 1-year LL.M. postgraduate programme and a 3-year Ph.D. in Legal Studies. Eligibility for the integrated UG law programmes requires 10+2/PUC with a minimum of 45% marks (40% for SC/ST, 42% for OBC). Eligibility for LL.M. requires an LL.B. degree with a minimum of 55% aggregate (50% for SC/ST/OBC). Admission is based on REVA CLAT/CLAT for UG law, and CLAT-PG or LLB merit for LL.M. For exact current fees, contact the admissions office directly, as reported figures vary significantly across sources."
+  },
+  {
+    "id": "faq_022",
+    "question": "What rankings and accreditations does REVA University hold?",
+    "answer": "REVA University holds NAAC A+ accreditation and is approved by UGC and AICTE. It is ranked in the 151-200 band among universities and 201-300 in Engineering in NIRF 2025. Selected engineering programmes (Electronics and Communication Engineering, Computer Science and Engineering, and Mechanical Engineering) are NBA-accredited with validity till 30th June 2028. REVA also holds a QS I-Gauge 'Diamond' Rating and features in the QS Asia University Rankings 2026 band of 1001-1100. REVA Business School is an official member of AACSB (Association to Advance Collegiate Schools of Business)."
+  },
+  {
+    "id": "faq_023",
+    "question": "Does REVA University have NSS, NCC, or social responsibility programmes?",
+    "answer": "Yes, REVA University has active NSS (National Service Scheme) and NCC (National Cadet Corps) units for students, along with University Social Responsibility (USR) initiatives and participation in the Unnat Bharat Abhiyan (UBA) rural development programme. The university also organizes REVA Vanamahotsava, a tree-plantation and environmental initiative, as part of its social responsibility efforts."
+  },
+  {
+    "id": "faq_024",
+    "question": "What is the REVA RISE scholarship and how can students avail it?",
+    "answer": "The REVA RISE scholarship is a merit-based scholarship offered by REVA University to support students in their academic journey. To avail of this scholarship, students must maintain a minimum of 90% attendance and achieve a 9.0 SGPA/CGPA every semester without any backlogs. Eligibility for the scholarship is determined at the time of admission, and students with a KCET rank up to 2000 (for B.Tech CSE) or up to 5000 (for other B.Tech branches) are eligible for a 50% tuition fee waiver."
+  },
+  {
+    "id": "faq_025",
+    "question": "What is the REVA International Relations and Research Collaborations Centre (REVA-IRRC)?",
+    "answer": "The REVA International Relations and Research Collaborations Centre (REVA-IRRC) is a dedicated centre at REVA University that facilitates international academic and research collaborations. It coordinates student exchange programs, joint research projects, and academic partnerships with universities and institutions across the USA, UK, Canada, Europe, and ASEAN nations. The centre aims to enhance global exposure for students and faculty, fostering cross-cultural learning and research opportunities."
+  },
+  {
+    "id": "faq_026",
+    "question": "What is the REVA Career Development Centre (CDC) and how does it support students?",
+    "answer": "The REVA Career Development Centre (CDC) is a dedicated placement cell at REVA University that works with over 350 recurring recruiters across various industries. The CDC provides training to students from their first year in areas such as communication skills, group discussions, interview techniques, and leadership qualities. It also organizes certification programmes, skill workshops, and placement boot camps to prepare students for successful careers. The CDC plays a crucial role in facilitating internships and job placements for students."
+  },
+  {
+    "id": "faq_027",
+    "question": "What is the REVA Student Housing and what amenities does it offer?",
+    "answer": "REVA Student Housing is the on-campus student accommodation provided by REVA University for both male and female students. It offers modern facilities such as 24/7 security, Wi-Fi connectivity, laundry services, and a well-equipped common room for social interaction."
+  },
+  {
+    "id": "faq_028",
+    "question": "What is the REVA Dhwani campus radio station?",
+    "answer": "REVA Dhwani is the official campus radio station of REVA University. It serves as a platform for students to express their creativity, share information, and engage with the university community through various programs, music, and discussions."
+  },
+  {
+    "id": "faq_029",
+    "question": "What is the REVA Insight student magazine?",
+    "answer": "REVA Insight is the in-house student magazine of REVA University. It provides students with an opportunity to showcase their writing, photography, and artistic talents. The magazine features articles, stories, interviews, and creative content contributed by students from various disciplines."
+  },
+  {
+    "id": "faq_030",
+    "question": "What is the REVA Vanamahotsava initiative?",
+    "answer": "REVA Vanamahotsava is an environmental initiative organized by REVA University as part of its social responsibility efforts. It involves tree plantation drives and awareness campaigns to promote environmental conservation and sustainability among students and the community."
+  },
+  {
+    "id": "faq_031",
+    "question": "What is the Unnat Bharat Abhiyan (UBA) programme at REVA University?",
+    "answer": "The Unnat Bharat Abhiyan (UBA) programme at REVA University is a rural development initiative that aims to connect higher education institutions with rural communities. Through this programme, students and faculty engage in projects that address local challenges, promote sustainable development, and contribute to the overall well-being of rural areas."
+  },
+  {
+    "id": "faq_032",
+    "question": "What is the REVA Health Care Centre and what services does it provide?",
+    "answer": "The REVA Health Care Centre is an on-campus medical facility that provides healthcare services to students, staff, and faculty. It is staffed with resident doctors available 24/7 and offers basic medical care, first aid, and emergency services. The centre also has tie-ups with nearby hospitals for specialized treatments and emergencies."
+  },
+  {
+    "id": "faq_033",
+    "question": "What is the REVA Gym and what facilities does it offer?",
+    "answer": "The REVA Gym is a fitness facility available on the REVA University campus. It is equipped with modern exercise equipment and provides students, staff, and faculty with opportunities for physical fitness and wellness. The gym promotes a healthy lifestyle and encourages regular exercise among the university community."
+  },
+  {
+    "id": "faq_034",
+    "question": "What is the REVA Food Court and what options does it provide?",
+    "answer": "The REVA Food Court is an on-campus dining facility that offers a variety of food options to students, staff, and faculty. It provides a range of cuisines, including vegetarian and non-vegetarian dishes, catering to diverse tastes and dietary preferences. The food court is designed to be a comfortable and social space for dining and interaction."
+  },
+  {
+    "id": "faq_035",
+    "question": "What is the REVA Open-Air Theatre and what events are held there?",
+    "answer": "The REVA Open-Air Theatre is an outdoor venue on the REVA University campus that hosts cultural events, performances, and gatherings. It provides a space for students to showcase their talents in music, dance, drama, and other performing arts. The theatre is also used for university functions and celebrations."
+  },
+  {
+    "id": "faq_036",
+    "question": "What is the REVA Central Library and what resources does it offer?",
+    "answer": "The REVA Central Library is a comprehensive resource center that provides students, faculty, and staff with access to a wide range of academic materials, including books, journals, e-resources, and research databases. The library supports learning, teaching, and research activities and offers study spaces, reference services, and information literacy programs."
+  },
+  {
+    "id": "faq_037",
+    "question": "What is the REVA Brand Store and what products are available?",
+    "answer": "The REVA Brand Store is an on-campus retail outlet that offers a variety of branded merchandise, including clothing, accessories, stationery, and university memorabilia. It provides students and visitors with an opportunity to purchase official REVA University products and souvenirs."
+  },
+  {
+    "id": "faq_038",
+    "question": "What is the REVA Health Insurance facility for students?",
+    "answer": "REVA University provides a health insurance facility for students, ensuring that they have access to medical coverage during their time at the university. The insurance plan covers various medical expenses and emergencies, providing financial protection and peace of mind for students and their families."
+  },
+  {
+    "id": "faq_039",
+    "question": "How does convocation work, and how do I get my degree certificate?",
+    "answer": "REVA University holds an Annual Convocation each year, where degrees are formally conferred to graduates, postgraduates, and Ph.D. holders, featuring an academic procession followed by a valediction ceremony. Before the formal degree certificate is issued, students can collect a Provisional Degree Certificate from their respective School office by submitting a duly filled Request Form. Transcripts can also be requested the same way — via a Request Form along with photocopies of grade cards and the fee-paid challan, submitted to the School office. Name corrections on grade cards follow a similar Request Form process with supporting SSLC/original documents."
+  },
+  {
+    "id": "faq_040",
+    "question": "How is the B.Tech curriculum structured at REVA University?",
+    "answer": "REVA University's B.Tech is a 4-year, 8-semester full-time programme designed using a Choice Based Credit System (CBCS) with an outcome-based education approach. It is offered across 16 specializations by the Faculty of Engineering and Technology, including Computer Science and Engineering, Civil Engineering, Design Engineering, and Robotics & AI, among others. Each semester combines theoretical and practical subjects specific to the chosen specialization. A Lateral Entry option is also available, allowing diploma or equivalent qualification holders to join directly into the 3rd semester (2nd year), completing the degree in 3 years (6 semesters) instead of 4. Seat intake and cutoff ranks vary by specialization and year — check the official REVA University website or KCET/COMEDK counselling portals for current numbers, as reported figures vary across sources."
+  },
+  {
+    "id": "faq_041",
+    "question": "What is the REVA University grading system?",
+    "answer": "REVA University follows a 10-point grading system for evaluating student performance. Each course is assigned a certain number of credits, and students receive grades based on their performance in examinations and assessments. The grades are converted into Grade Points, which are used to calculate the Semester Grade Point Average (SGPA) and Cumulative Grade Point Average (CGPA). The grading scale typically ranges from A+ (highest) to F (fail), with corresponding grade points assigned to each grade."
+  },
+  {
+    "id": "faq_042",
+    "question": "What is the REVA University attendance policy?",
+    "answer": "REVA University has a strict attendance policy that requires students to maintain a minimum of 75% attendance in each course to be eligible to appear for examinations. Attendance is monitored regularly, and students are expected to attend lectures, practicals, and other academic activities. In case of medical emergencies or other valid reasons, students may apply for leave with proper documentation, subject to approval by the concerned authorities."
+  },
+  {
+    "id": "faq_043",
+    "question": "What is the REVA University examination and evaluation process?",
+    "answer": "REVA University conducts semester-wise examinations for all courses, overseen by the Office of Examination and Evaluation. The university has adopted a tab-based, technology-driven examination and digital evaluation system to ensure transparency and timely results. Students are assessed through a combination of written exams, practicals, assignments, and projects, depending on the course requirements. Results are published on the official university portal, and students can access their grade cards and transcripts through the same."
+  },
+  {
+    "id": "faq_044",
+    "question": "What is the REVA University student support and counseling services?",
+    "answer": "REVA University provides comprehensive student support and counseling services to assist students in their academic, personal, and career development. The university has a dedicated counseling center staffed with trained professionals who offer guidance on mental health, stress management, academic challenges, and career planning. Students can schedule appointments for one-on-one counseling sessions or participate in group workshops and seminars focused on personal growth and well-being."
+  },
+  {
+    "id": "faq_045",
+    "question": "What is the REVA University alumni network and how can I connect with it?",
+    "answer": "REVA University has an active alumni network that connects former students with the university and each other. The alumni association organizes events, reunions, and networking opportunities to foster professional and personal connections. Graduates can join the alumni network through the official REVA University website or by contacting the alumni office directly. The network provides a platform for mentorship, career guidance, and collaboration among alumni."
+  },
+  {
+    "id": "faq_046",
+    "question": "What is the REVA University research and innovation ecosystem?",
+    "answer": "REVA University promotes a robust research and innovation ecosystem through its dedicated research centers, laboratories, and incubation facilities. The university encourages faculty and students to engage in interdisciplinary research projects, publish in reputed journals, and participate in conferences. It also supports startups and entrepreneurial ventures through its incubation center, providing mentorship, funding opportunities, and access to industry networks."
+  },
+  {
+    "id": "faq_047",
+    "question": "What is the REVA University community engagement and social responsibility initiatives?",
+    "answer": "REVA University actively engages with the community through various social responsibility initiatives, including outreach programs, awareness campaigns, and volunteer activities. The university encourages students and faculty to participate in projects that address societal challenges, promote sustainability, and contribute to the well-being of local communities. Initiatives such as tree plantation drives, health camps, and educational workshops are part of the university's commitment to social responsibility."
+  },
+  {
+    "id": "faq_048",
+    "question": "What is the REVA University international student support services?",
+    "answer": "REVA University provides dedicated support services for international students, including assistance with admissions, visa processes, accommodation, and orientation programs. The university offers guidance on cultural adaptation, academic expectations, and access to resources to ensure a smooth transition for international students. Additionally, the REVA International Relations and Research Collaborations Centre (REVA-IRRC) facilitates opportunities for global exposure and collaboration."
+  },
+  {
+    "id": "faq_049",
+    "question": "What is the REVA University campus safety and security measures?",
+    "answer": "REVA University prioritizes the safety and security of its students, staff, and faculty. The campus is equipped with 24/7 security personnel, CCTV surveillance, and access control systems. Emergency response protocols are in place, and the university conducts regular safety drills and awareness programs to ensure a secure environment for all members of the university community."
+  },
+  {
+    "id": "faq_050",
+    "question": "What is the REVA University environmental sustainability initiatives?",
+    "answer": "REVA University is committed to environmental sustainability through various initiatives such as energy conservation, waste management, water conservation, and green campus practices. The university promotes awareness about environmental issues among students and encourages participation in eco-friendly activities, including tree plantation drives, recycling programs, and sustainable development projects."
+  },
+  {
+    "id": "faq_051",
+    "question": "What is the REVA University student clubs and organizations?",
+    "answer": "REVA University offers a variety of student clubs and organizations that cater to diverse interests, including technical clubs, cultural societies, sports teams, and social service groups. These clubs provide students with opportunities to develop leadership skills, engage in extracurricular activities, and collaborate on projects that enhance their personal and professional growth."
+  },
+  {
+    "id": "faq_052",
+    "question": "What is the REVA University sports and recreational facilities?",
+    "answer": "REVA University provides a range of sports and recreational facilities, including indoor and outdoor sports courts, gymnasiums, and fitness centers. The university encourages students to participate in various sports activities, tournaments, and fitness programs to promote physical well-being and a healthy lifestyle."
+  },
+  {
+    "id": "faq_053",
+    "question": "What is the REVA University cultural events and festivals?",
+    "answer": "REVA University hosts a variety of cultural events and festivals throughout the academic year, celebrating diversity and creativity. These events include music and dance performances, art exhibitions, literary competitions, and traditional celebrations. Students are encouraged to participate and showcase their talents, fostering a vibrant campus culture."
+  },
+  {
+    "id": "faq_054",
+    "question": "What is the REVA University technology and innovation labs?",
+    "answer": "REVA University has state-of-the-art technology and innovation labs that provide students with hands-on experience in various fields of study. These labs are equipped with advanced tools, software, and equipment to facilitate research, experimentation, and innovation. Students can work on projects, prototypes, and research initiatives under the guidance of experienced faculty members."
+  },
+  {
+    "id": "faq_055",
+    "question": "What is the REVA University faculty and academic staff?",
+    "answer": "REVA University has a diverse and experienced faculty and academic staff who are experts in their respective fields. The faculty members are involved in teaching, research, and mentoring students, contributing to a high-quality academic environment. They actively engage in curriculum development, industry collaborations, and scholarly activities to enhance the learning experience for students."
+  },
+  {
+    "id": "faq_056",
+    "question": "What is the REVA University student feedback and evaluation system?",
+    "answer": "REVA University has a structured student feedback and evaluation system that allows students to provide input on courses, teaching methods, and overall academic experience. Feedback is collected through surveys, questionnaires, and online platforms, enabling the university to assess and improve the quality of education and student satisfaction."
+  },
+  {
+    "id": "faq_057",
+    "question": "What is the REVA University career services and job placement support?",
+    "answer": "REVA University offers comprehensive career services and job placement support through its Career Development Centre (CDC). The CDC provides guidance on resume building, interview preparation, and career planning. It organizes job fairs, campus recruitment drives, and networking events to connect students with potential employers. The centre also maintains relationships with industry partners to facilitate internships and job placements for students."
+  },
+  {
+    "id": "faq_058",
+    "question": "What is the REVA University student mentorship and guidance programs?",
+    "answer": "REVA University has established student mentorship and guidance programs to support students in their academic and personal development. Experienced faculty members and senior students serve as mentors, providing advice, guidance, and support to help mentees navigate their academic journey, set goals, and overcome challenges. The mentorship program fosters a supportive learning environment and encourages peer-to-peer learning."
+  },
+  {
+    "id": "faq_059",
+    "question": "What is the REVA University student exchange and international exposure opportunities?",
+    "answer": "REVA University offers student exchange programs and international exposure opportunities through its collaborations with partner universities and institutions worldwide. Students can participate in exchange programs, internships, and research projects abroad, gaining valuable global experience and cross-cultural understanding. The university also hosts international students and faculty, enriching the academic environment with diverse perspectives."
+  },
+  {
+    "id": "faq_060",
+    "question": "What is the REVA University student entrepreneurship and startup support?",
+    "answer": "REVA University supports student entrepreneurship and startup initiatives through its incubation center and entrepreneurship programs. The university provides mentorship, funding opportunities, and access to industry networks to help students develop their business ideas and launch startups. Workshops, seminars, and competitions are organized to foster innovation and entrepreneurial skills among students."
+  },
+  {
+    "id": "faq_061",
+    "question": "What is the REVA University student wellness and mental health support?",
+    "answer": "REVA University prioritizes student wellness and mental health by providing counseling services, wellness programs, and awareness campaigns. The university has trained counselors who offer individual and group sessions to address mental health concerns, stress management, and personal development. Wellness initiatives include workshops, mindfulness sessions, and recreational activities to promote overall well-being."
+  },
+  {
+    "id": "faq_062",
+    "question": "What is the REVA University student leadership and development programs?",
+    "answer": "REVA University offers student leadership and development programs to cultivate leadership skills, teamwork, and personal growth. These programs include workshops, seminars, and experiential learning opportunities that encourage students to take on leadership roles in clubs, organizations, and community service projects. The university aims to empower students to become responsible leaders and active contributors to society."
+  },
+  {
+    "id": "faq_063",
+    "question": "What is the REVA University student cultural and artistic expression opportunities?",
+    "answer": "REVA University provides students with numerous opportunities for cultural and artistic expression through various clubs, societies, and events. Students can participate in music, dance, theater, visual arts, and literary activities, showcasing their talents and creativity. The university organizes cultural festivals, competitions, and exhibitions to celebrate diversity and encourage artistic exploration."
+  },
+  {
+    "id": "faq_064",
+    "question": "What is the REVA University student community service and volunteer programs?",
+    "answer": "REVA University encourages students to engage in community service and volunteer programs that contribute to social welfare and development. Students can participate in initiatives such as health camps, educational outreach, environmental conservation, and social awareness campaigns. The university fosters a sense of social responsibility and civic engagement among students through these programs."
+  },
+  {
+    "id": "faq_065",
+    "question": "What is the REVA University student research and innovation opportunities?",
+    "answer": "REVA University provides students with opportunities to engage in research and innovation through its research centers, laboratories, and innovation labs. Students can work on interdisciplinary projects, collaborate with faculty members, and contribute to scholarly publications. The university encourages participation in research competitions, conferences, and workshops to enhance students' research skills and foster a culture of innovation."
+  },
+  {
+    "id": "faq_066",
+    "question": "What is the REVA University student networking and professional development opportunities?",
+    "answer": "REVA University offers students various networking and professional development opportunities through industry interactions, guest lectures, workshops, and seminars. Students can connect with professionals, alumni, and industry experts to gain insights into their fields of interest. The university also organizes career fairs, mentorship programs, and skill development sessions to enhance students' employability and professional growth."
+  },
+  {
+    "id": "faq_067",
+    "question": "What is the REVA University student technology and digital literacy programs?",
+    "answer": "REVA University provides students with technology and digital literacy programs to enhance their skills in using digital tools, software, and emerging technologies. The university offers workshops, training sessions, and online resources to help students develop proficiency in areas such as programming, data analysis, cybersecurity, and digital communication. These programs aim to prepare students for the demands of the modern workforce."
+  },
+  {
+    "id": "faq_068",
+    "question": "What is the REVA University student international collaboration and exchange programs?",
+    "answer": "REVA University facilitates international collaboration and exchange programs that allow students to gain global exposure and cross-cultural experiences. Through partnerships with universities and institutions worldwide, students can participate in exchange programs, internships, and joint research projects. The university also hosts international students and faculty, fostering a diverse academic environment and promoting global learning opportunities."
+  },
+  {
+    "id": "faq_069",
+    "question": "What is the REVA University student entrepreneurship and innovation competitions?",
+    "answer": "REVA University organizes entrepreneurship and innovation competitions to encourage students to develop creative solutions and business ideas. These competitions provide a platform for students to showcase their entrepreneurial skills, pitch their ideas to industry experts, and receive mentorship and funding opportunities. The university aims to foster a culture of innovation and entrepreneurship among its students."
+  },
+  {
+    "id": "faq_070",
+    "question": "What is the REVA University student cultural exchange and international exposure programs?",
+    "answer": "REVA University offers cultural exchange and international exposure programs that allow students to experience different cultures, traditions, and perspectives. Through partnerships with international institutions, students can participate in exchange programs, study tours, and cultural immersion activities. These programs aim to broaden students' horizons, enhance their global awareness, and promote cross-cultural understanding."
+  },
+  {
+    "id": "faq_071",
+    "question": "What is the REVA University student leadership and community engagement programs?",
+    "answer": "REVA University provides student leadership and community engagement programs that encourage students to take on leadership roles and actively contribute to their communities. These programs include workshops, seminars, and service-learning projects that promote civic responsibility, teamwork, and personal development. Students have opportunities to lead initiatives, organize events, and participate in community service activities."
+  },
+  {
+    "id": "faq_072",
+    "question": "What is the REVA University student wellness and health promotion programs?",
+    "answer": "REVA University offers student wellness and health promotion programs that focus on physical, mental, and emotional well-being. The university provides access to fitness facilities, counseling services, wellness workshops, and health awareness campaigns. Students are encouraged to participate in activities that promote a healthy lifestyle, stress management, and overall well-being."
+  },
+  {
+    "id": "faq_073",
+    "question": "What is the REVA University student academic support and tutoring services?",
+    "answer": "REVA University provides academic support and tutoring services to assist students in their learning and academic success. The university offers peer tutoring, study groups, and academic workshops to help students improve their understanding of course material, develop effective study strategies, and enhance their academic performance. Faculty members are also available for guidance and support."
+  },
+  {
+    "id": "faq_074",
+    "question": "What is the REVA University student career counseling and guidance services?",
+    "answer": "REVA University offers career counseling and guidance services to help students explore career options, set goals, and make informed decisions about their future. The university provides one-on-one counseling sessions, career assessments, and workshops on resume writing, interview preparation, and job search strategies. Students can access resources and support to enhance their career readiness and professional development."
+  },
+  {
+    "id": "faq_075",
+    "question": "What is the REVA University student international study and research opportunities?",
+    "answer": "REVA University provides students with international study and research opportunities through partnerships with universities and research institutions worldwide. Students can participate in exchange programs, internships, and collaborative research projects that offer global exposure and cross-cultural experiences. The university supports students in pursuing academic and research interests on an international scale."
+  },
+  {
+    "id": "faq_076",
+    "question": "What is the REVA University student technology and innovation labs?",
+    "answer": "REVA University has state-of-the-art technology and innovation labs that provide students with hands-on experience in various fields of study. These labs are equipped with advanced tools, software, and equipment to facilitate research, experimentation, and innovation. Students can work on projects, prototypes, and research initiatives under the guidance of experienced faculty members."
+  },
+  {
+    "id": "faq_077",
+    "question": "Can I change my course or specialization after admission?",
+    "answer": "Course or specialization changes depend on seat availability, eligibility, university rules, and the academic stage. Contact the REVA admissions office or your school office for the current process and deadlines."
+  },
+  {
+    "id": "faq_078",
+    "question": "Can I apply before my 12th or final semester results are released?",
+    "answer": "You may be able to apply provisionally, depending on the programme. Final admission normally requires the required qualifying documents and eligibility. Confirm the current rule with REVA Admissions."
+  },
+  {
+    "id": "faq_079",
+    "question": "What documents should I keep ready for admission?",
+    "answer": "Commonly requested documents may include mark sheets, transfer or migration documents where applicable, identity proof, photographs, entrance-exam scorecards, category certificates if applicable, and payment receipts. The exact list varies by programme."
+  },
+  {
+    "id": "faq_080",
+    "question": "Can I pay my university fees in installments?",
+    "answer": "Installment or semester-wise payment options depend on the programme and current university policy. Contact the accounts or admissions office for available plans and deadlines."
+  },
+  {
+    "id": "faq_081",
+    "question": "What happens if I miss the fee payment deadline?",
+    "answer": "Late payment may lead to a late fee, temporary restriction on services, or other action under university policy. Contact the accounts office immediately."
+  },
+  {
+    "id": "faq_082",
+    "question": "How can I get a bonafide certificate from REVA University?",
+    "answer": "Contact your school office or the designated student administration office and submit the required request. Confirm the current documents and processing time with the university."
+  },
+  {
+    "id": "faq_083",
+    "question": "How do I apply for a student ID card or replacement ID card?",
+    "answer": "Contact the relevant school office or student administration/help desk. A replacement may require an application and prescribed charge."
+  },
+  {
+    "id": "faq_084",
+    "question": "What should I do if I lose something on campus?",
+    "answer": "Report the lost item to campus security, reception/help desk, or the relevant school office as soon as possible."
+  },
+  {
+    "id": "faq_085",
+    "question": "Whom should I contact for a classroom, timetable, or faculty issue?",
+    "answer": "Start with your class mentor, department office, or school administration. For unresolved issues, follow the official student grievance process."
+  },
+  {
+    "id": "faq_086",
+    "question": "How can I register for clubs, events, or student activities?",
+    "answer": "Watch official university announcements, student portals, school notices, and club communications. Registration requirements vary by activity."
+  },
+  {
+    "id": "faq_087",
+    "question": "Are internships compulsory for every programme?",
+    "answer": "Internship requirements depend on the programme curriculum and academic regulations. Check your programme handbook or ask your department coordinator."
+  },
+  {
+    "id": "faq_088",
+    "question": "How do I request internship or project approval from my department?",
+    "answer": "Contact your department coordinator or project mentor. You may need to submit an offer letter, proposal, company details, and other documents."
+  },
+  {
+    "id": "faq_089",
+    "question": "Can I get a fee receipt or duplicate payment receipt?",
+    "answer": "Contact the accounts or admissions office with your student/application ID and payment details."
+  },
+  {
+    "id": "faq_090",
+    "question": "How do I update my phone number, email address, or personal details?",
+    "answer": "Use the official student portal if enabled, or contact the school/administration office with valid identification."
+  },
+  {
+    "id": "faq_091",
+    "question": "What is the process for taking academic leave?",
+    "answer": "Apply through the prescribed leave process and inform your class mentor or department. Supporting documents may be required."
+  },
+  {
+    "id": "faq_092",
+    "question": "How can I raise a complaint or student grievance?",
+    "answer": "Contact the concerned faculty member, mentor, department, or school office first. If unresolved, use the official grievance redressal channel."
+  },
+  {
+    "id": "faq_093",
+    "question": "How do I get a transcript, migration certificate, or transfer certificate?",
+    "answer": "Submit the prescribed request to the relevant school or administration office with required documents and fee receipt, if applicable."
+  },
+  {
+    "id": "faq_094",
+    "question": "What should I do if my exam result or attendance is incorrect?",
+    "answer": "Contact the course faculty member or department office promptly and provide supporting records. Follow the official correction or grievance process."
+  },
+  {
+    "id": "faq_095",
+    "question": "Where can I find official notices, academic calendars, and deadlines?",
+    "answer": "Check the official REVA website, student portal, school/department notices, and official university communication channels."
+  },
+  {
+    "id": "faq_096",
+    "question": "Can students get help with academic stress or personal problems?",
+    "answer": "Students can contact the university's counseling or student-support services. For urgent concerns, approach the appropriate campus support office immediately."
+  },
+  {
+    "id": "faq_097",
+    "question": "What documents are required for hostel admission?",
+    "answer": "Students generally need their university ID, admission details, identity proof, photographs, and any hostel forms requested by the hostel office."
+  },
+  {
+    "id": "faq_098",
+    "question": "How can I apply for a hostel room?",
+    "answer": "Apply through the official hostel admission process within the announced deadline and submit the required documents and fee."
+  },
+  {
+    "id": "faq_099",
+    "question": "How can I change my hostel room?",
+    "answer": "Submit a room-change request to the hostel office. Approval depends on availability and hostel rules."
+  },
+  {
+    "id": "faq_100",
+    "question": "What should I do if I lose my university ID card?",
+    "answer": "Report the loss to the concerned university office and request a replacement ID card after completing the required formalities."
+  },
+  {
+    "id": "faq_101",
+    "question": "How can I update my mobile number or email address?",
+    "answer": "Contact the relevant student administration or academic office and submit a request with valid identification if required."
+  },
+  {
+    "id": "faq_102",
+    "question": "How can I obtain a bonafide certificate?",
+    "answer": "Raise a request through the official student service or academic office and provide the purpose and required student details."
+  },
+  {
+    "id": "faq_103",
+    "question": "How can I request a migration certificate?",
+    "answer": "Contact the examination or academic administration office and follow the official application and document-submission process."
+  },
+  {
+    "id": "faq_104",
+    "question": "How can I apply for a transfer certificate?",
+    "answer": "Submit the transfer-certificate request through the prescribed university process after completing applicable clearance requirements."
+  },
+  {
+    "id": "faq_105",
+    "question": "How can I get a duplicate marks card?",
+    "answer": "Apply through the examination section with the required form, identification, and applicable fee."
+  },
+  {
+    "id": "faq_106",
+    "question": "How can I request correction of my name on university records?",
+    "answer": "Contact student administration or the examination section with supporting identity documents and request a record correction."
+  },
+  {
+    "id": "faq_107",
+    "question": "How can I report a technical issue in the student portal?",
+    "answer": "Capture the error, note the date and time, and contact the university IT or student-support team through the official channel."
+  },
+  {
+    "id": "faq_108",
+    "question": "What should I do if I cannot log in to my student account?",
+    "answer": "Use the official password-reset option first. If the issue continues, contact the university IT helpdesk with your student details."
+  },
+  {
+    "id": "faq_109",
+    "question": "How can I access online classes or learning resources?",
+    "answer": "Use the official learning platform or student portal with your university credentials and follow the course instructions provided by faculty."
+  },
+  {
+    "id": "faq_110",
+    "question": "How can I request academic counselling?",
+    "answer": "Contact your faculty mentor, department, school office, or the designated counselling service to request an appointment."
+  },
+  {
+    "id": "faq_111",
+    "question": "How can I join a student club?",
+    "answer": "Check official club announcements, attend the recruitment or orientation activity, and complete the club's membership process."
+  },
+  {
+    "id": "faq_112",
+    "question": "How can I participate in university events?",
+    "answer": "Follow official university or school announcements and register through the stated form or event portal before the deadline."
+  },
+  {
+    "id": "faq_113",
+    "question": "How can I apply for an internship through the university?",
+    "answer": "Track internship notices from the career or placement office, check eligibility, and apply using the instructions in the official announcement."
+  },
+  {
+    "id": "faq_114",
+    "question": "How can I prepare for campus placement?",
+    "answer": "Build relevant technical and communication skills, prepare your resume, practise aptitude and interviews, and attend career-development sessions."
+  },
+  {
+    "id": "faq_115",
+    "question": "What should I do if I miss an assignment deadline?",
+    "answer": "Contact the concerned faculty member as soon as possible, explain the reason, and follow the faculty's instructions regarding late submission."
+  },
+  {
+    "id": "faq_116",
+    "question": "How can I request an attendance shortage review?",
+    "answer": "Contact the concerned department or academic office with supporting documents and submit the review request within the permitted timeline."
+  },
+  {
+    "id": "faq_117",
+    "question": "How can I submit feedback about a faculty member or course?",
+    "answer": "Use the official feedback form or student feedback process provided by the department or university."
+  },
+  {
+    "id": "faq_118",
+    "question": "How can I report harassment or discrimination?",
+    "answer": "Use the university's official grievance, anti-harassment, or designated committee channel and provide the details safely and confidentially."
+  },
+  {
+    "id": "faq_119",
+    "question": "How can I request accessibility support?",
+    "answer": "Contact the designated student-support or accessibility office and explain the assistance required so suitable arrangements can be considered."
+  },
+  {
+    "id": "faq_120",
+    "question": "How can I find the academic calendar?",
+    "answer": "Check the official university website, student portal, or academic office announcements for the latest academic calendar."
+  },
+
+  
+  {
+    "id": "faq_121",
+    "question": "What is BCA in Artificial Intelligence and Machine Learning at REVA University?",
+    "answer": "BCA in Artificial Intelligence and Machine Learning is a computer applications programme focused on programming, computer science, data handling, artificial intelligence, and machine learning. Students may study programming, databases, mathematics, statistics, AI concepts, machine learning, projects, and practical laboratory subjects. Check the latest official programme brochure for the exact curriculum and duration."
+  },
+  {
+    "id": "faq_122",
+    "question": "What is the duration of BCA AI and ML at REVA University?",
+    "answer": "The duration of BCA AI and ML depends on the current programme structure approved by REVA University. Some specialized BCA programmes may have a 4-year structure with an optional Honours or Honours with Research pathway. Confirm the current duration from the official programme brochure or admissions office."
+  },
+  {
+    "id": "faq_123",
+    "question": "What subjects are taught in BCA AI and ML?",
+    "answer": "BCA AI and ML may include programming, data structures, databases, mathematics, statistics, computer networks, operating systems, artificial intelligence, machine learning, data analysis, and project work. The exact subjects and semester-wise syllabus should be checked in the latest official curriculum."
+  },
+  {
+    "id": "faq_124",
+    "question": "Is Python taught in BCA AI and ML at REVA University?",
+    "answer": "Python is commonly used in artificial intelligence, machine learning, and data analysis. Whether Python is included in a particular semester at REVA depends on the official curriculum. Confirm the exact programming languages covered in the current BCA AI and ML syllabus."
+  },
+  {
+    "id": "faq_125",
+    "question": "Does BCA AI and ML include data structures and algorithms?",
+    "answer": "Data structures and algorithms are important for programming and technical placements. The exact subjects included in BCA AI and ML should be confirmed from the current REVA curriculum or programme handbook."
+  },
+  {
+    "id": "faq_126",
+    "question": "Does BCA AI and ML include mathematics?",
+    "answer": "Mathematics and statistics are important foundations for artificial intelligence and machine learning. The exact mathematics subjects and eligibility requirements depend on the current BCA AI and ML programme rules."
+  },
+  {
+    "id": "faq_127",
+    "question": "Can a Commerce student join BCA AI and ML at REVA University?",
+    "answer": "Eligibility for BCA AI and ML depends on the subjects studied in 12th standard and the current programme rules. Students from Commerce may be eligible if they satisfy the required marks and subject conditions. Confirm your eligibility with REVA Admissions before applying."
+  },
+  {
+    "id": "faq_128",
+    "question": "Can I join BCA AI and ML without studying Computer Science in 12th?",
+    "answer": "Students without Computer Science may be eligible depending on the current BCA AI and ML admission rules. A bridge course or additional mathematics requirement may apply to some students. Confirm the exact subject requirements with REVA Admissions."
+  },
+  {
+    "id": "faq_129",
+    "question": "Can I join BCA AI and ML after studying Commerce without Mathematics?",
+    "answer": "Admission depends on the current eligibility criteria and whether Mathematics or another accepted subject is compulsory. Students without the required subject may need to complete a bridge course if permitted. Confirm the rule for your academic background with REVA Admissions."
+  },
+  {
+    "id": "faq_130",
+    "question": "What career options are available after BCA AI and ML?",
+    "answer": "Graduates may explore roles such as software developer, Python developer, data analyst, junior machine learning engineer, AI support associate, QA engineer, web developer, technical support engineer, or data operations associate. Career options depend on programming skills, projects, internships, aptitude performance, and recruiter eligibility."
+  },
+  {
+    "id": "faq_131",
+    "question": "Can BCA AI and ML students become AI engineers?",
+    "answer": "BCA AI and ML students can work toward AI-related roles by developing strong programming, mathematics, statistics, machine learning, deep learning, data handling, and project skills. Some advanced AI engineering roles may require a postgraduate degree or substantial practical experience."
+  },
+  {
+    "id": "faq_132",
+    "question": "Can BCA AI and ML students apply for software developer jobs?",
+    "answer": "BCA AI and ML students may apply for software development roles when the recruiter accepts BCA graduates and the student satisfies the eligibility criteria. Strong skills in programming, data structures, databases, web development, Git, projects, and interviews can improve preparation."
+  },
+  {
+    "id": "faq_133",
+    "question": "Can I pursue MCA after BCA AI and ML?",
+    "answer": "BCA AI and ML graduates may pursue MCA or other relevant postgraduate programmes if they satisfy the admission requirements. Eligibility can depend on graduation marks, mathematics subjects, entrance tests, and university rules."
+  },
+  {
+    "id": "faq_134",
+    "question": "Is there a 4-year Honours or Honours with Research option in BCA?",
+    "answer": "The availability of a 4-year Honours or Honours with Research pathway depends on the programme structure and current university regulations. The existing BCA information mentions a possible fourth-year option for students meeting the required academic performance. Confirm the exact eligibility and process with the department."
+  },
+  {
+    "id": "faq_135",
+    "question": "What is the semester-wise syllabus for BCA AI and ML?",
+    "answer": "The semester-wise syllabus should be obtained from the latest official BCA AI and ML curriculum or programme handbook. It may include foundational computer science, programming, mathematics, databases, AI and ML subjects, practicals, internships, and projects. The exact subject list can change with curriculum revisions."
+  },
+  {
+    "id": "faq_136",
+    "question": "What is the tuition fee for BCA AI and ML at REVA University?",
+    "answer": "The current BCA AI and ML tuition fee depends on the academic year, admission category, and programme structure. Request the latest official fee quotation from REVA Admissions before making a payment."
+  },
+  {
+    "id": "faq_137",
+    "question": "What is the total cost of BCA AI and ML including hostel and food?",
+    "answer": "The total cost may include tuition, hostel, food, examination charges, transport, books, insurance, and other university charges. The exact amount depends on the selected room type and programme fee. Request a complete written fee breakdown from REVA."
+  },
+  {
+    "id": "faq_138",
+    "question": "Is BCA AI and ML more expensive than general BCA?",
+    "answer": "Fees may differ between general BCA and specialized BCA programmes. The difference depends on the current programme structure and university fee policy. Compare the official fee quotations for both programmes before deciding."
+  },
+  {
+    "id": "faq_139",
+    "question": "Can BCA AI and ML fees be paid semester-wise?",
+    "answer": "Semester-wise or installment payment options depend on the current university policy. Contact the admissions or accounts office to confirm available payment plans, deadlines, and additional charges."
+  },
+  {
+    "id": "faq_140",
+    "question": "Are there additional charges apart from BCA tuition fees?",
+    "answer": "Additional charges may include examination fees, hostel, food, transport, books, student activities, insurance, laboratory charges, or other programme-related expenses. Request a complete fee breakdown before admission."
+  },
+  {
+    "id": "faq_141",
+    "question": "What is the overall placement percentage at REVA University?",
+    "answer": "The overall placement percentage can change by graduating batch, programme, recruiter participation, and placement season. Use the latest official placement report for the verified figure. University-wide placement data should not automatically be treated as the placement rate for BCA AI and ML."
+  },
+  {
+    "id": "faq_142",
+    "question": "What is the placement rate for BCA AI and ML at REVA University?",
+    "answer": "A separate BCA AI and ML placement rate should be quoted only when it is published in an official programme-specific placement report. Overall university placement figures may include several programmes and may not represent BCA AI and ML outcomes."
+  },
+  {
+    "id": "faq_143",
+    "question": "What is the average salary package for BCA AI and ML students?",
+    "answer": "The average salary package depends on the graduating batch, job role, recruiter, and student performance. A verified BCA AI and ML average should be obtained from the latest official placement report or Career Development Centre."
+  },
+  {
+    "id": "faq_144",
+    "question": "What is the highest package offered to BCA students?",
+    "answer": "The highest package may vary by batch, programme, and placement season. Confirm whether the published figure applies specifically to BCA students or represents the university-wide highest package."
+  },
+  {
+    "id": "faq_145",
+    "question": "Which companies recruit BCA AI and ML students?",
+    "answer": "Recruiter participation can change each placement season. Students should check the latest official placement notices to see which companies accept BCA or BCA AI and ML graduates and what eligibility conditions they require."
+  },
+  {
+    "id": "faq_146",
+    "question": "What is the minimum CGPA required for campus placements?",
+    "answer": "There may not be one universal CGPA requirement for every placement drive. Each recruiter may specify its own CGPA, percentage, backlog, academic-history, and other eligibility conditions. Check the eligibility criteria in each official placement notification."
+  },
+  {
+    "id": "faq_147",
+    "question": "Is 7.5 CGPA enough for big IT companies?",
+    "answer": "A CGPA of 7.5 out of 10 may satisfy the academic requirement of some IT companies, but requirements vary by recruiter. Companies may also consider backlogs, 10th and 12th marks, academic gaps, coding tests, aptitude tests, projects, and interviews. A 7.5 CGPA does not guarantee selection."
+  },
+  {
+    "id": "faq_148",
+    "question": "Can I sit for placements if I have a backlog?",
+    "answer": "Placement eligibility depends on the company and the university placement rules. Some recruiters may allow students with backlogs, while others may require no active or previous backlogs. Check the eligibility conditions of each placement drive."
+  },
+  {
+    "id": "faq_149",
+    "question": "Can students with one failed subject attend campus placements?",
+    "answer": "Students with one failed subject may or may not be eligible depending on the recruiter’s backlog policy and the university’s placement rules. Confirm the requirements for each company and work toward clearing the backlog as soon as possible."
+  },
+  {
+    "id": "faq_150",
+    "question": "Are academic gaps allowed for placements?",
+    "answer": "Some recruiters allow academic gaps, while others may have restrictions. The decision depends on the company’s eligibility criteria and the reason or duration of the gap. Check the official placement notification carefully."
+  },
+  {
+    "id": "faq_151",
+    "question": "Are 10th and 12th marks considered during placements?",
+    "answer": "Some recruiters specify minimum marks in 10th, 12th, diploma, or graduation. Other companies may focus more on skills and assessments. Review the academic eligibility criteria listed for each company."
+  },
+  {
+    "id": "faq_152",
+    "question": "Does REVA provide coding and aptitude training for placements?",
+    "answer": "The Career Development Centre provides career preparation and may organize aptitude, communication, resume, coding, and interview-related training. Confirm the exact training schedule and modules with the CDC or your department."
+  },
+  {
+    "id": "faq_153",
+    "question": "When does placement training start at REVA University?",
+    "answer": "The CDC information indicates that career preparation begins from the early years of study. The exact training schedule, year-wise modules, and attendance requirements may vary by programme. Confirm the current schedule with the CDC."
+  },
+  {
+    "id": "faq_154",
+    "question": "Does REVA conduct mock interviews?",
+    "answer": "Career preparation may include interview guidance, mock interviews, group discussions, and communication training. Confirm the current mock interview schedule and participation process with the Career Development Centre."
+  },
+  {
+    "id": "faq_155",
+    "question": "Does REVA help students prepare resumes?",
+    "answer": "The Career Development Centre provides career guidance and may support resume preparation. Students should also maintain a professional resume, LinkedIn profile, GitHub profile, and project portfolio."
+  },
+  {
+    "id": "faq_156",
+    "question": "Can BCA students apply for off-campus jobs?",
+    "answer": "BCA students can apply for off-campus jobs when they satisfy the company’s eligibility requirements. Students should use official company career pages, verified job portals, alumni networks, internships, projects, and professional networking opportunities."
+  },
+  {
+    "id": "faq_157",
+    "question": "Can BCA students apply for product-based companies?",
+    "answer": "BCA students may apply to product-based companies if the company accepts their degree and they satisfy the eligibility criteria. Strong data structures, algorithms, programming, system fundamentals, projects, and interview preparation are useful."
+  },
+  {
+    "id": "faq_158",
+    "question": "Does every student get placed through REVA campus placements?",
+    "answer": "Placement outcomes are not identical for every student. They depend on programme, recruiter eligibility, CGPA, backlogs, technical skills, aptitude performance, communication, interview performance, and the number of available positions."
+  },
+  {
+    "id": "faq_159",
+    "question": "What happens if I reject a campus placement offer?",
+    "answer": "The effect of rejecting an offer depends on the current placement policy. Some placement cells may have rules about multiple offers, offer rejection, or future participation. Confirm the policy with the Career Development Centre before rejecting an offer."
+  },
+  {
+    "id": "faq_160",
+    "question": "Is there a one-student-one-offer policy at REVA?",
+    "answer": "The existence and details of a one-student-one-offer policy depend on the current placement rules. Check the official placement handbook or ask the Career Development Centre."
+  },
+  {
+    "id": "faq_161",
+    "question": "What happens if I fail a subject in a semester?",
+    "answer": "If you fail a subject, it may become a backlog. You normally need to register for and clear the subject through the permitted examination process. Promotion, graduation, scholarships, and placement eligibility may depend on the university’s current rules."
+  },
+  {
+    "id": "faq_162",
+    "question": "How do I clear a backlog at REVA University?",
+    "answer": "Students should follow the examination section’s process for backlog or supplementary examination registration. Check the notification for registration dates, examination fees, subject codes, hall-ticket details, and examination dates."
+  },
+  {
+    "id": "faq_163",
+    "question": "Can I attend the next semester if I have a backlog?",
+    "answer": "Promotion rules depend on the programme, number of backlogs, academic regulations, and the university’s current policy. Confirm your eligibility with the department or examination section."
+  },
+  {
+    "id": "faq_164",
+    "question": "Can I graduate with a backlog?",
+    "answer": "Students normally need to satisfy the university’s graduation requirements, including clearing required subjects and credits. Whether any backlog can remain at graduation depends on the current academic regulations."
+  },
+  {
+    "id": "faq_165",
+    "question": "Is there a separate fee for backlog examinations?",
+    "answer": "Backlog examination fees may apply depending on the subject and current examination rules. Check the examination notification or student portal for the latest fee details."
+  },
+  {
+    "id": "faq_166",
+    "question": "Can I apply for revaluation if I fail a subject?",
+    "answer": "Revaluation or answer-script review may be available under the university’s examination rules. Students should check the applicable notification, deadline, fee, and eligibility before applying."
+  },
+  {
+    "id": "faq_167",
+    "question": "How is CGPA calculated at REVA University?",
+    "answer": "CGPA is calculated using course grade points and credits across completed semesters. The exact formula, grade-point table, and treatment of repeated subjects should be confirmed from the official academic regulations."
+  },
+  {
+    "id": "faq_168",
+    "question": "How can I improve my CGPA?",
+    "answer": "To improve CGPA, focus on regular attendance, internal assessments, assignments, practicals, examinations, and credit-heavy subjects. Use faculty guidance, previous question papers, study groups, and timely revision."
+  },
+  {
+    "id": "faq_169",
+    "question": "How is CGPA converted into percentage at REVA University?",
+    "answer": "The conversion method depends on the university’s official academic regulations. Do not use an assumed formula unless it is confirmed by REVA. Request an official CGPA-to-percentage conversion certificate if required."
+  },
+  {
+    "id": "faq_170",
+    "question": "What happens if my attendance is below 75 percent?",
+    "answer": "Students below the required attendance level may face restrictions on appearing for examinations, subject to university rules. If permitted, students may apply for attendance condonation with valid supporting documents within the announced deadline."
+  },
+  {
+    "id": "faq_171",
+    "question": "Is attendance calculated subject-wise?",
+    "answer": "Attendance requirements may be applied course-wise or according to the university’s academic regulations. Confirm how attendance is calculated for lectures, practicals, and other academic activities."
+  },
+  {
+    "id": "faq_172",
+    "question": "Can medical leave help with attendance shortage?",
+    "answer": "Medical leave or attendance condonation may be considered when supported by valid documents and approved by the appropriate authority. Approval is not automatic and depends on the current university rules."
+  },
+  {
+    "id": "faq_173",
+    "question": "What happens if I miss an internal assessment?",
+    "answer": "Contact the concerned faculty member or department immediately. A retest, alternate assessment, or other arrangement may be possible only if permitted under the course and university rules."
+  },
+  {
+    "id": "faq_174",
+    "question": "How do I download my examination timetable?",
+    "answer": "Check the official student portal, examination section announcements, university website, and department notices for the latest examination timetable."
+  },
+  {
+    "id": "faq_175",
+    "question": "How can I download my hall ticket?",
+    "answer": "Hall-ticket availability and download instructions are normally communicated through the student portal or examination section. Ensure that examination registration, fee payment, attendance, and other requirements are completed."
+  },
+  {
+    "id": "faq_176",
+    "question": "What should I do if my examination result is incorrect?",
+    "answer": "Contact the concerned faculty member, department, or examination section promptly. Keep your hall ticket, grade card, internal marks, and other supporting records ready and follow the official correction or grievance process."
+  },
+  {
+    "id": "faq_177",
+    "question": "What is the hostel fee at REVA University?",
+    "answer": "Hostel fees depend on room type, occupancy, facilities, food arrangements, and academic year. Ask REVA Student Housing for the latest written fee structure, deposit details, payment deadlines, and refund conditions."
+  },
+  {
+    "id": "faq_178",
+    "question": "Does REVA provide AC and non-AC hostel rooms?",
+    "answer": "Room types and availability depend on the current REVA Student Housing facilities. Confirm whether AC, non-AC, single, double, or shared rooms are available and ask for the corresponding fees."
+  },
+  {
+    "id": "faq_179",
+    "question": "What documents are required for hostel admission?",
+    "answer": "Commonly requested documents may include admission confirmation, university or application ID, identity proof, photographs, medical or undertaking forms, and hostel application forms. Confirm the exact document list with Student Housing."
+  },
+  {
+    "id": "faq_180",
+    "question": "Is hostel accommodation compulsory at REVA University?",
+    "answer": "Hostel accommodation is not necessarily compulsory for every student. The applicable rules may depend on the programme, student category, and university policy. Confirm whether you can stay as a day scholar or outside campus."
+  },
+  {
+    "id": "faq_181",
+    "question": "What are the hostel in-time and out-time rules?",
+    "answer": "Hostel entry and exit timings depend on the current Student Housing regulations. Ask the hostel administration about weekday timings, weekend rules, late entry, outing permissions, and night-out procedures."
+  },
+  {
+    "id": "faq_182",
+    "question": "Can parents visit students in the REVA hostel?",
+    "answer": "Parent and visitor access depends on the hostel’s current security and visitor policy. Confirm visiting hours, identification requirements, visitor registration, and permitted areas with Student Housing."
+  },
+  {
+    "id": "faq_183",
+    "question": "Can I change my hostel room?",
+    "answer": "Room changes may be requested through the hostel office. Approval depends on room availability, valid reasons, and the current hostel rules."
+  },
+  {
+    "id": "faq_184",
+    "question": "Can I live outside campus instead of staying in the hostel?",
+    "answer": "Students living outside campus should confirm day-scholar, attendance, transport, and programme requirements with the university. Hostel withdrawal or non-allocation may also require a formal request."
+  },
+  {
+    "id": "faq_185",
+    "question": "Is food included in the hostel fee?",
+    "answer": "Food arrangements and whether mess charges are included depend on the selected hostel plan. Ask Student Housing for a complete breakdown of room, food, deposit, and additional charges."
+  },
+  {
+    "id": "faq_186",
+    "question": "Are internships compulsory for BCA AI and ML?",
+    "answer": "Internship requirements depend on the current BCA AI and ML curriculum and academic regulations. Confirm the required semester, duration, credits, approval process, report format, and evaluation requirements with the department."
+  },
+  {
+    "id": "faq_187",
+    "question": "Can I do an internship outside Bengaluru?",
+    "answer": "Students may be able to complete internships outside Bengaluru if the department approves the internship and academic requirements are satisfied. Confirm attendance, approval, reporting, and evaluation rules before accepting the internship."
+  },
+  {
+    "id": "faq_188",
+    "question": "Can I do a remote internship while studying at REVA?",
+    "answer": "Remote internship permission depends on the programme rules, department approval, internship quality, attendance requirements, and evaluation process. Obtain approval before beginning the internship."
+  },
+  {
+    "id": "faq_189",
+    "question": "How do I get internship approval from my department?",
+    "answer": "Contact your department coordinator or internship mentor. You may need to submit the offer letter, company details, internship duration, job description, mentor details, and proposed work plan."
+  },
+  {
+    "id": "faq_190",
+    "question": "What documents are required after completing an internship?",
+    "answer": "The department may require an internship certificate, offer letter, attendance or completion proof, report, work log, supervisor evaluation, presentation, or viva. Confirm the exact requirements with your department."
+  },
+  {
+    "id": "faq_191",
+    "question": "What are the project requirements for BCA AI and ML?",
+    "answer": "Project requirements depend on the semester and programme curriculum. Projects may require topic approval, a guide, documentation, implementation, presentation, demonstration, and viva. Confirm the official project guidelines with the department."
+  },
+  {
+    "id": "faq_192",
+    "question": "Can BCA AI and ML students participate in hackathons?",
+    "answer": "Students can look for hackathons through university announcements, technical clubs, external platforms, and industry communities. Participation may help develop teamwork, programming, problem-solving, and project-building skills."
+  },
+  {
+    "id": "faq_193",
+    "question": "Does REVA provide education loan support?",
+    "answer": "Students should contact REVA Admissions or Accounts for fee letters and documents required for education loans. Loan approval, interest rates, collateral, and eligibility are decided by the respective bank or financial institution."
+  },
+  {
+    "id": "faq_194",
+    "question": "Can I cancel my admission and get a refund?",
+    "answer": "Refund eligibility depends on the university’s current refund policy, cancellation date, deductions, and applicable regulations. Request the latest written refund policy before cancelling admission."
+  },
+  {
+    "id": "faq_195",
+    "question": "Can I change my course after admission?",
+    "answer": "Course changes depend on eligibility, seat availability, academic stage, approvals, and university rules. Contact Admissions or the concerned school office for the current procedure and deadline."
+  },
+  {
+    "id": "faq_196",
+    "question": "Can I apply for more than one course at REVA?",
+    "answer": "Students may be able to apply for more than one programme, depending on the current admissions process. Confirm whether separate applications, entrance tests, and application fees are required."
+  },
+  {
+    "id": "faq_197",
+    "question": "Where can I find the latest REVA academic calendar?",
+    "answer": "Check the official REVA University website, student portal, examination section, school notices, and official university announcements for the latest academic calendar."
+  },
+  {
+    "id": "faq_198",
+    "question": "How can I contact the Career Development Centre?",
+    "answer": "Students should use the official REVA University website, student portal, department notices, or university directory to find the current Career Development Centre contact details and office timings."
+  },
+  {
+    "id": "faq_199",
+    "question": "How can I contact REVA Admissions for BCA AI and ML?",
+    "answer": "Students can contact REVA Admissions through the official admissions email address, phone numbers, or admissions portal listed on the university website. Confirm the current contact details before submitting personal documents or making payments."
+  },
+  {
+    "id": "faq_200",
+    "question": "Where can I find official placement notifications at REVA University?",
+    "answer": "Check the Career Development Centre, student portal, department notices, official university announcements, and approved student communication channels for placement notifications. Always read the eligibility criteria, registration deadline, test details, and company instructions."
+  },
+    {
+    "id": "faq_201",
+    "question": "What are the eligibility criteria for campus placements at REVA University?",
+    "answer": "To participate in REVA University's campus recruitment process, students must maintain a minimum CGPA of 6.0 on a 10-point scale, in addition to meeting any further criteria set by individual recruiting companies (which can vary — some recruiters set higher CGPA cutoffs or specific branch requirements). Students are prepared for this from their first year through the Career Development Centre's training programmes."
+  },
+  {
+    "id": "faq_202",
+    "question": "What is the REVA RISE scholarship and how is it awarded?",
+    "answer": "REVA RISE (REVA Initiative for Scholastic Excellence) is REVA's flagship Scholarship Aptitude Test, conducted annually. Tuition fee waivers are awarded based on the test score: a score of 95+ combined with being from a rural government PU college earns a 100% tuition waiver; a score of 95+ alone earns 50%; 90-94 earns 40%; 85-89 earns 30%; 75-84 earns 20%; and 60-74 earns 10%. The waiver applies only to tuition fees, not hostel, transport, or examination fees. To continue receiving the scholarship in years 2-4, students must maintain minimum 90% attendance and a 9.0 SGPA/CGPA every semester in a single attempt, with no backlogs. Separately, students with a strong KCET rank (up to 2000 for B.Tech CSE, or up to 5000 for other B.Tech branches) are eligible for a distinct 50% tuition fee waiver. Only one scholarship can be availed at a time."
+  },
+  {
+    "id": "203",
+    "question": "What is the application fee for REVA University, broken down by programme?",
+    "answer": "The application fee varies by programme category: for Engineering, Architecture, and Law programmes, it is ₹1,000 for Indian applicants, ₹2,000 for NRI applicants, and USD 50 for foreign nationals. For other undergraduate programmes, the application fee is ₹500. For postgraduate programmes, it is ₹1,000. Applications are submitted online at reva.edu.in."
+  },
+  {
+    "id": "faq_204",
+    "question": "How does the 4-year undergraduate degree structure work under NEP 2020?",
+    "answer": "In line with the National Education Policy (NEP) 2020, REVA University introduced 4-year undergraduate degree programmes with multiple entry and exit points. Students can exit after 1 year (2 semesters) with a Certificate, after 2 years with a Diploma, after 3 years with a Bachelor's degree, or complete the full 4 years. After completing 3 years, students with a minimum CGPA of 7.5 have the option to continue into a 4th year for a Bachelor's degree with Honours or Research. An Academic Bank of Credits (ABC) stores earned academic credits, allowing students to accumulate and redeem credits across recognized institutions, including for re-entry after a gap of up to 7 years based on earned credits and proficiency."
+  },
+  {
+    "id": "faq_205",
+    "question": "What is the Academic Bank of Credits (ABC) and how does it work?",
+    "answer": "The Academic Bank of Credits (ABC) is a system that allows students to store and manage their earned academic credits. Students can accumulate credits from various recognized institutions and redeem them for completing their degree requirements. The ABC facilitates flexible learning paths, enabling students to re-enter their studies after a gap of up to 7 years, provided they have earned sufficient credits and demonstrate proficiency in the relevant subjects."
+  },
+  {
+    "id": "faq_206",
+    "question": "What are the different exit options available under the 4-year undergraduate degree structure?",
+    "answer": "Under the 4-year undergraduate degree structure, students have multiple exit options: after completing 1 year (2 semesters), they can exit with a Certificate; after 2 years, they can exit with a Diploma; after 3 years, they can exit with a Bachelor's degree; and after completing the full 4 years, they can earn a Bachelor's degree with Honours or Research. Each exit option is designed to provide students with recognized qualifications based on their completed coursework."
+  },
+  
+  {
+    "id": "faq_207",
+    "question": "How can students maintain their eligibility for scholarships under the REVA RISE programme?",
+    "answer": "To maintain eligibility for scholarships under the REVA RISE programme, students must achieve a minimum of 90% attendance and maintain a SGPA/CGPA of 9.0 or higher in each semester, with no backlogs. This ensures that students continue to meet the academic standards required to retain their scholarship benefits throughout their course of study."
+  },
+  
+  {
+    "id": "faq_208",
+    "question": "Are there any specific requirements for students who wish to pursue the 4th year for Honours or Research?",
+    "answer": "Yes, students wishing to pursue the 4th year for Honours or Research must have completed 3 years of study with a minimum CGPA of 7.5. They should also meet any additional criteria set by the university, which may include specific coursework, research proposals, or project work as outlined in the official curriculum."
+  },
+  
+  {
+    "id": "faq_209",
+    "question": "Can students transfer credits from other recognized institutions to the Academic Bank of Credits (ABC)?",
+    "answer": "Yes, students can transfer credits from other recognized institutions to the Academic Bank of Credits (ABC). The transferred credits must be from courses that are equivalent and recognized by the university. Students should follow the official process for credit transfer, which may include submitting transcripts and course descriptions for evaluation."
+  },
+  {
+    "id": "faq_210",
+    "question": "What is the maximum duration for which students can accumulate credits in the Academic Bank of Credits (ABC)?",
+    "answer": "Students can accumulate credits in the Academic Bank of Credits (ABC) for a maximum duration of 7 years. This allows students to take breaks in their education and return to complete their degree requirements, provided they have earned sufficient credits and demonstrate proficiency in the relevant subjects."
+  },
+  
+  {
+    "id": "faq_211",
+    "question": "How does the REVA RISE scholarship impact tuition fees for students?",
+    "answer": "The REVA RISE scholarship provides tuition fee waivers based on the student's performance in the scholarship aptitude test. Depending on the score achieved, students can receive waivers ranging from 10% to 100% of their tuition fees. The scholarship does not cover hostel, transport, or examination fees."
+  },
+  {
+    "id": "faq_212",
+    "question": "Are there any additional benefits for students who achieve high scores in the REVA RISE scholarship test?",
+    "answer": "Yes, students who achieve high scores in the REVA RISE scholarship test may receive additional benefits such as priority consideration for internships, mentorship opportunities, and access to exclusive workshops or seminars. These benefits are designed to enhance the overall educational experience and career readiness of high-achieving students."
+  },
+  
+  {
+    "id": "faq_213",
+    "question": "Can students apply for multiple scholarships at REVA University?",
+    "answer": "Students may be eligible to apply for multiple scholarships at REVA University, but they can only avail one scholarship at a time. It is important to review the eligibility criteria and terms of each scholarship before applying to ensure compliance with university policies."
+  },
+  
+  {
+    "id": "faq_214",
+    "question": "How can students stay informed about scholarship opportunities at REVA University?",
+    "answer": "Students can stay informed about scholarship opportunities by regularly checking the official REVA University website, student portal, and departmental notices. Additionally, students can subscribe to university newsletters and attend information sessions or workshops related to scholarships and financial aid."
+  },
+  
+  {
+    "id": "faq_215",
+    "question": "What support services are available for students to help them succeed academically at REVA University?",
+    "answer": "REVA University offers a range of support services to help students succeed academically, including tutoring programs, academic advising, study groups, workshops on study skills and time management, and access to online learning resources. Students are encouraged to utilize these services to enhance their learning experience."
+  },
+  {
+    "id": "faq_216",
+    "question": "How can students access career counseling and placement support at REVA University?",
+    "answer": "Students can access career counseling and placement support through the Career Development Centre (CDC) at REVA University. The CDC provides guidance on resume building, interview preparation, job search strategies, and connects students with potential employers through campus recruitment drives and networking events."
+  },
+  
+  {
+    "id": "faq_217",
+    "question": "What are the eligibility criteria for students to participate in the REVA RISE scholarship test?",
+    "answer": "The eligibility criteria for the REVA RISE scholarship test may include academic performance, entrance exam scores, and other specific requirements set by the university. Students should refer to the official scholarship guidelines for detailed eligibility information."
+  },
+  {
+    "id": "faq_218",
+    "question": "How often is the REVA RISE scholarship test conducted?",
+    "answer": "The REVA RISE scholarship test is conducted annually. Students should check the official REVA University website and announcements for the specific dates and registration details for the upcoming scholarship test."
+  },
+  
+  {
+    "id": "faq_219",
+    "question": "What is the process for students to apply for the REVA RISE scholarship?",
+    "answer": "Students can apply for the REVA RISE scholarship by completing the online application form available on the official REVA University website. They must provide necessary academic details, entrance exam scores, and any other required documentation as specified in the application guidelines."
+  },
+  {
+    "id": "faq_220",
+    "question": "Are there any specific workshops or training sessions offered to help students prepare for the REVA RISE scholarship test?",
+    "answer": "Yes, REVA University may offer preparatory workshops or training sessions to help students prepare for the REVA RISE scholarship test. These sessions may cover test-taking strategies, subject-specific content review, and practice tests. Students should check with the university for the schedule and availability of these preparatory programs."
+  },
+  {
+    "id": "faq_221",
+    "question": "How can students track their scholarship application status at REVA University?",
+    "answer": "Students can track their scholarship application status by logging into the student portal on the official REVA University website. The portal will provide updates on application review, approval, and any additional steps required for scholarship processing."
+  },
+  {
+    "id": "faq_222",
+    "question": "What is the process for students to appeal a scholarship decision at REVA University?",
+    "answer": "Students who wish to appeal a scholarship decision can submit a formal appeal letter to the scholarship committee or the designated office at REVA University. The appeal should include relevant supporting documents and a clear explanation of the grounds for the appeal. The university will review the appeal and provide a response based on their policies."
+  },
+  {
+    "id": "faq_223",
+    "question": "Are there any mentorship programs available for students who receive the REVA RISE scholarship?",
+    "answer": "Yes, students who receive the REVA RISE scholarship may have access to mentorship programs that connect them with faculty members, industry professionals, and alumni. These mentorship opportunities are designed to provide guidance, support, and career advice to help scholarship recipients succeed academically and professionally."
+  },
+  
+  {
+    "id": "faq_224",
+    "question": "Can students who receive the REVA RISE scholarship participate in research projects or internships?",
+    "answer": "Yes, students who receive the REVA RISE scholarship are encouraged to participate in research projects and internships. The university may provide additional support and opportunities for scholarship recipients to engage in hands-on learning experiences that enhance their academic and professional development."
+  },
+  {
+    "id": "faq_225",
+    "question": "What is Revothsava at REVA University?",
+    "answer": "Revothsava is REVA University's flagship annual inter-university cultural fest, running since 2012. It's a celebration of culture, sports, and management excellence with an annual footfall of around 20,000 students, featuring performances by renowned artists alongside events highlighting creativity, skill, and innovation. Students from universities across the country participate, and the fest has grown significantly in scale and media coverage over the years."
+  },
+  {
+    "id": "faq_226",
+    "question": "What is REVA EXPO?",
+    "answer": "REVA EXPO is one of REVA University's most prominent technical events, held annually as an Open Day where students showcase their technical, creative, and innovative projects. Past editions have featured 500+ student projects spanning fields like Cloud Computing and other current technology trends. It gives visiting students and industry visitors a look at real student-built projects and opens avenues for future career and collaboration opportunities."
+  },
+  {
+    "id": "faq_227",
+    "question": "Does REVA University host hackathons or tech innovation events?",
+    "answer": "Yes. REVA University hosts tech innovation events such as REVA RIFT (Revolution in Innovation and Future Tech), a flagship workshop and hackathon series organized by the Google Developer Group on Campus (GDGoC) in association with the School of Computer Science and Engineering, bringing together students, developers, and industry experts. It involves collaboration between multiple student tech clubs including the Blockchain Club, AIML Club, and OSCode Club. The university also runs a full Eventus Calendar of academic and cultural events, workshops, and seminars across its faculties."
+  },
+  {
+    "id": "faq_228",
+    "question": "Does REVA have student tech clubs?",
+    "answer": "Yes, REVA University has active student-run technical clubs including a Blockchain Club (ABC), an AI/ML Club (AiFi), and OSCode Club, among others, often working in association with the ATAL IDEA Lab and the Google Developer Group on Campus (GDGoC) chapter. These clubs organize workshops, hackathons, and innovation events throughout the year."
+  },
+  {
+    "id": "faq_229",
+    "question": "Does REVA University support student innovation, startups, and research?",
+    "answer": "Yes. REVA University has a dedicated Research and Development Cell that liaises with funding agencies, R&D institutions, and industry to support faculty and student research across Engineering, Applied Sciences, Commerce & Management, Arts & Humanities, and Legal Studies. For innovation and entrepreneurship, REVA runs the REVA Institutions Innovation Council (REVA IIC), established under the Ministry of Education's Innovation Cell guidelines, which organizes hackathons (including Smart India Hackathon), ideation programs, and mentorship. REVA NEST is the university's Technology Business Incubator (registered as RAY Foundation, recognized by MSME and supported by the Government of Karnataka), which helps students and alumni turn startup ideas into registered companies with support on product development, patenting, and fundraising. The University Industry Interaction Centre (UIIC) and ATAL IDEA Lab further connect students with real-world industry problems and prototyping facilities."
+  },
+  {
+    "id": "faq_230",
+    "question": "Does REVA University help students file patents?",
+    "answer": "Yes, REVA's Innovation Cell (REVA IIC) provides patent filing support and intellectual property (IP) awareness programs, including workshops on patent drafting, to help students and faculty commercialize research-based innovations. This is coordinated alongside REVA NEST and the University Industry Interaction Centre (UIIC), which also support technology transfer and industry-led R&D."
+  }
+]
