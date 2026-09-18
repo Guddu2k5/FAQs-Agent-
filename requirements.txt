@@ -3,5 +3,4 @@ python-dotenv
 google-genai
 chromadb
 flask-limiter
-front-end techstack
 gunicorn
