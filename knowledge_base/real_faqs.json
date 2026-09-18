@@ -599,8 +599,6 @@
     "question": "How can I find the academic calendar?",
     "answer": "Check the official university website, student portal, or academic office announcements for the latest academic calendar."
   },
-
-  
   {
     "id": "faq_121",
     "question": "What is BCA in Artificial Intelligence and Machine Learning at REVA University?",
@@ -1001,7 +999,7 @@
     "question": "Where can I find official placement notifications at REVA University?",
     "answer": "Check the Career Development Centre, student portal, department notices, official university announcements, and approved student communication channels for placement notifications. Always read the eligibility criteria, registration deadline, test details, and company instructions."
   },
-    {
+  {
     "id": "faq_201",
     "question": "What are the eligibility criteria for campus placements at REVA University?",
     "answer": "To participate in REVA University's campus recruitment process, students must maintain a minimum CGPA of 6.0 on a 10-point scale, in addition to meeting any further criteria set by individual recruiting companies (which can vary — some recruiters set higher CGPA cutoffs or specific branch requirements). Students are prepared for this from their first year through the Career Development Centre's training programmes."
@@ -1031,19 +1029,16 @@
     "question": "What are the different exit options available under the 4-year undergraduate degree structure?",
     "answer": "Under the 4-year undergraduate degree structure, students have multiple exit options: after completing 1 year (2 semesters), they can exit with a Certificate; after 2 years, they can exit with a Diploma; after 3 years, they can exit with a Bachelor's degree; and after completing the full 4 years, they can earn a Bachelor's degree with Honours or Research. Each exit option is designed to provide students with recognized qualifications based on their completed coursework."
   },
-  
   {
     "id": "faq_207",
     "question": "How can students maintain their eligibility for scholarships under the REVA RISE programme?",
     "answer": "To maintain eligibility for scholarships under the REVA RISE programme, students must achieve a minimum of 90% attendance and maintain a SGPA/CGPA of 9.0 or higher in each semester, with no backlogs. This ensures that students continue to meet the academic standards required to retain their scholarship benefits throughout their course of study."
   },
-  
   {
     "id": "faq_208",
     "question": "Are there any specific requirements for students who wish to pursue the 4th year for Honours or Research?",
     "answer": "Yes, students wishing to pursue the 4th year for Honours or Research must have completed 3 years of study with a minimum CGPA of 7.5. They should also meet any additional criteria set by the university, which may include specific coursework, research proposals, or project work as outlined in the official curriculum."
   },
-  
   {
     "id": "faq_209",
     "question": "Can students transfer credits from other recognized institutions to the Academic Bank of Credits (ABC)?",
@@ -1054,7 +1049,6 @@
     "question": "What is the maximum duration for which students can accumulate credits in the Academic Bank of Credits (ABC)?",
     "answer": "Students can accumulate credits in the Academic Bank of Credits (ABC) for a maximum duration of 7 years. This allows students to take breaks in their education and return to complete their degree requirements, provided they have earned sufficient credits and demonstrate proficiency in the relevant subjects."
   },
-  
   {
     "id": "faq_211",
     "question": "How does the REVA RISE scholarship impact tuition fees for students?",
@@ -1065,19 +1059,16 @@
     "question": "Are there any additional benefits for students who achieve high scores in the REVA RISE scholarship test?",
     "answer": "Yes, students who achieve high scores in the REVA RISE scholarship test may receive additional benefits such as priority consideration for internships, mentorship opportunities, and access to exclusive workshops or seminars. These benefits are designed to enhance the overall educational experience and career readiness of high-achieving students."
   },
-  
   {
     "id": "faq_213",
     "question": "Can students apply for multiple scholarships at REVA University?",
     "answer": "Students may be eligible to apply for multiple scholarships at REVA University, but they can only avail one scholarship at a time. It is important to review the eligibility criteria and terms of each scholarship before applying to ensure compliance with university policies."
   },
-  
   {
     "id": "faq_214",
     "question": "How can students stay informed about scholarship opportunities at REVA University?",
     "answer": "Students can stay informed about scholarship opportunities by regularly checking the official REVA University website, student portal, and departmental notices. Additionally, students can subscribe to university newsletters and attend information sessions or workshops related to scholarships and financial aid."
   },
-  
   {
     "id": "faq_215",
     "question": "What support services are available for students to help them succeed academically at REVA University?",
@@ -1088,7 +1079,6 @@
     "question": "How can students access career counseling and placement support at REVA University?",
     "answer": "Students can access career counseling and placement support through the Career Development Centre (CDC) at REVA University. The CDC provides guidance on resume building, interview preparation, job search strategies, and connects students with potential employers through campus recruitment drives and networking events."
   },
-  
   {
     "id": "faq_217",
     "question": "What are the eligibility criteria for students to participate in the REVA RISE scholarship test?",
@@ -1099,7 +1089,6 @@
     "question": "How often is the REVA RISE scholarship test conducted?",
     "answer": "The REVA RISE scholarship test is conducted annually. Students should check the official REVA University website and announcements for the specific dates and registration details for the upcoming scholarship test."
   },
-  
   {
     "id": "faq_219",
     "question": "What is the process for students to apply for the REVA RISE scholarship?",
@@ -1125,7 +1114,6 @@
     "question": "Are there any mentorship programs available for students who receive the REVA RISE scholarship?",
     "answer": "Yes, students who receive the REVA RISE scholarship may have access to mentorship programs that connect them with faculty members, industry professionals, and alumni. These mentorship opportunities are designed to provide guidance, support, and career advice to help scholarship recipients succeed academically and professionally."
   },
-  
   {
     "id": "faq_224",
     "question": "Can students who receive the REVA RISE scholarship participate in research projects or internships?",
@@ -1160,5 +1148,152 @@
     "id": "faq_230",
     "question": "Does REVA University help students file patents?",
     "answer": "Yes, REVA's Innovation Cell (REVA IIC) provides patent filing support and intellectual property (IP) awareness programs, including workshops on patent drafting, to help students and faculty commercialize research-based innovations. This is coordinated alongside REVA NEST and the University Industry Interaction Centre (UIIC), which also support technology transfer and industry-led R&D."
+  },
+  {
+    "id": "faq_235",
+    "question": "What career opportunities are there after B.Tech ECE at REVA University?",
+    "answer": "Graduates of B.Tech Electronics and Communication Engineering (ECE) at REVA University have career opportunities across defence services, telecommunications, embedded systems development, electronic and hardware manufacturing, VLSI design, software development, the power sector, TV and music industries, automobiles, space communications, IT, home appliance development, electronic security systems, mobile phone testing and development, communication protocols development, and optical communications development."
+  },
+  {
+    "id": "faq_236",
+    "question": "What is B.Tech Electronics and Computer Engineering (ECM) at REVA University?",
+    "answer": "B.Tech in Electronics and Computer Engineering (ECM) at REVA University is designed to provide skills in both electronics hardware and software/IT development, sitting at the intersection of electronics and computer engineering. Students learn to design new hardware and software, gaining exposure to smart systems involving sensors, processors, actuators, communication networks, IoT, Data Science, and Data Analytics. The curriculum is developed in consultation with industry technocrats, with a specialization track in VLSI (design and development of integrated circuits, covering circuit design, layout, simulation, and optimization)."
+  },
+  {
+    "id": "faq_237",
+    "question": "What career paths are there after B.Tech CSE with AI & Machine Learning specialization at REVA University?",
+    "answer": "REVA University's B.Tech in Computer Science and Engineering (Artificial Intelligence and Machine Learning) prepares graduates to lead, build, and govern agentic AI systems, large language models, and autonomous intelligence pipelines. Eligibility requires 10+2 with Physics and Mathematics compulsory, plus one of Chemistry/Biotechnology/Biology/Computer Science/Electronics/Technical Vocational subjects, with a minimum of 45% marks (40% for SC/ST category)."
+  },
+  {
+    "id": "faq_235",
+    "question": "What career opportunities are there after B.Tech ECE at REVA University?",
+    "answer": "Graduates of B.Tech Electronics and Communication Engineering (ECE) at REVA University have career opportunities across defence services, telecommunications, embedded systems development, electronic and hardware manufacturing, VLSI design, software development, the power sector, TV and music industries, automobiles, space communications, IT, home appliance development, electronic security systems, mobile phone testing and development, communication protocols development, and optical communications development."
+  },
+  {
+    "id": "faq_236",
+    "question": "What is B.Tech Electronics and Computer Engineering (ECM) at REVA University?",
+    "answer": "B.Tech in Electronics and Computer Engineering (ECM) at REVA University is designed to provide skills in both electronics hardware and software/IT development, sitting at the intersection of electronics and computer engineering. Students learn to design new hardware and software, gaining exposure to smart systems involving sensors, processors, actuators, communication networks, IoT, Data Science, and Data Analytics. The curriculum is developed in consultation with industry technocrats, with a specialization track in VLSI (design and development of integrated circuits, covering circuit design, layout, simulation, and optimization)."
+  },
+  {
+    "id": "faq_237",
+    "question": "What career paths are there after B.Tech CSE with AI & Machine Learning specialization at REVA University?",
+    "answer": "REVA University's B.Tech in Computer Science and Engineering (Artificial Intelligence and Machine Learning), offered through the School of Computing and Information Technology (SoCIT), prepares graduates to lead, build, and govern agentic AI systems, large language models, and autonomous intelligence pipelines. Unlike many universities that introduce AI late in the curriculum, REVA has students working on Generative AI courses from Year 1, building agentic-AI-based applications using tools like GitHub Copilot and frameworks such as TensorFlow, PyTorch, and Flask. Eligibility requires 10+2 with Physics and Mathematics compulsory, plus one of Chemistry/Biotechnology/Biology/Computer Science/Electronics/Technical Vocational subjects, with a minimum of 45% marks (40% for SC/ST category)."
+  },
+  {
+    "id": "faq_238",
+    "question": "How does the B.Tech CSE curriculum work at REVA University, and what electives/minors are available?",
+    "answer": "At REVA, B.Tech students in Computer Science-related programmes (AI & ML, Computer Science & Information Technology, Information Science & Engineering) begin with a shared core curriculum, then choose specialization electives from the 3rd year onward. Some courses are tagged to specific industry partners, such as Advanced Intelligent Data Management with Cloud (with Informatica), Network Management Systems (with Wipro), and Software Development Experiential Learning (with Salesforce). Students can also earn additional credentials through minors in Robotics, Smart Cities, Electric Vehicles, Aerospace Engineering, or IIT Mandi-certified programmes, alongside international immersion visits through REVA's foreign university collaborations."
+  },
+  {
+    "id": "faq_239",
+    "question": "What is B.Tech CSE with IoT and Cyber Security (including Blockchain) at REVA University?",
+    "answer": "This B.Tech programme covers network security, cryptography, ethical hacking, digital forensics, cyber law, cloud security, IoT architecture and protocols, embedded systems, wireless sensor networks, smart systems design, and industrial IoT. Training includes hands-on labs, Capture the Flag (CTF) cybersecurity exercises, and live project environments simulating real-world threat and deployment scenarios, preparing graduates for roles securing critical national and global infrastructure."
+  },
+  {
+    "id": "faq_240",
+    "question": "What is B.Tech CSE with Artificial Intelligence and Data Science at REVA University?",
+    "answer": "This programme covers data acquisition and pre-processing, exploratory data analysis, statistical modelling, machine learning, deep learning, cloud-based data platforms, data visualisation, business analytics, and the ethical dimensions of data use. Learning is project-based with industry collaborations, applying data science to real-world problems in healthcare, finance, e-commerce, and public policy."
+  },
+  {
+    "id": "faq_241",
+    "question": "What is B.Tech in Computer Science and Information Technology at REVA University?",
+    "answer": "This programme covers computer programming, data structures and algorithms, operating systems, computer networks, software engineering, database management systems, and information security. Students are trained to develop, design, implement, and maintain software systems and IT infrastructure, with coursework incorporating current technology, scientific methods, and research practices."
+  },
+  {
+    "id": "faq_242",
+    "question": "Does REVA University offer a B.Sc. in Cyber Security?",
+    "answer": "Yes, REVA University offers a B.Sc. in Computer Science with a specialization in Cyber Security. Eligibility requires 10+2 with Mathematics, Statistics, Computer Science, IT, or Informatics Practices as a compulsory subject, with a minimum of 45% marks (40% for SC/ST category). Career paths include Information Security Analyst, Lead Software Security Engineer, Chief Information Security Officer, Security Architect, Penetration Tester, Cyber Forensics Expert, Cybersecurity Analyst, Security Consultant, and Security Administrator."
+  },
+  {
+    "id": "faq_243",
+    "question": "What MBA specializations does REVA Business School offer in detail?",
+    "answer": "REVA Business School's MBA is a dual-specialization programme where students choose two specializations from seven areas: Marketing, Finance, Human Resources, International Business, Entrepreneurship, Strategic Leadership, and Banking & Insurance — with additional emerging tracks in Operations Management, Health Care Management, and Business Analytics. MBA in Finance covers financial report analysis, economic forecasting, and investment portfolios, leading to careers in investment banking and financial consulting. MBA in International Business covers international trade, cross-border finance, and global strategic management, for careers in multinational corporations and global consultancy. MBA in Banking & Insurance covers credit analysis, underwriting, and claims management, leading to careers in retail banking, investment services, and insurance. There are over 300 total MBA seats across all specializations at REVA."
+  },
+  {
+    "id": "faq_244",
+    "question": "What is the teaching style and structure of the MBA programme at REVA University?",
+    "answer": "REVA Business School's MBA uses a Fully Flexible Credit System, letting students choose courses, faculty, and time slots. Teaching combines case study methods, self-learning tools, activity-based learning, simulations, project-based learning, case debates, presentations, and e-assignments. Students also complete MOOCs, a summer internship, and a major project. Students can choose elective/specialization courses starting from the first semester itself, alongside core management courses. Regular placement training and campus placements are arranged starting in the pre-final year by the Career Development Centre, and separate MBA hostel facilities are available."
+  },
+  {
+    "id": "faq_245",
+    "question": "What is MBA in Business Analytics at REVA University?",
+    "answer": "MBA in Business Analytics at REVA Business School focuses on data analysis, statistical modelling, and data-driven decision-making for business improvement. Eligibility requires a 3-year Bachelor's degree (any stream) or B.E./B.Tech with a minimum of 50% aggregate (45% for SC/ST category), plus a good score in REVA MAT, CAT, MAT, or CMAT. The programme is structured across 4 semesters combining core management courses with Business Analytics electives."
+  },
+  {
+    "id": "faq_246",
+    "question": "What does the MCA curriculum focus on and what career paths does it lead to?",
+    "answer": "REVA University's MCA (offered through the School of Computer Science and Applications) leans heavily toward application development, with strong emphasis on the latest programming languages and tools for building software faster and better. The curriculum spans computational theory, network and database management, mobile technologies, electronics, mathematics, probability, and statistics. Career paths include programming and software development, information systems operation and management, telecommunications and networking, computer science research, web and internet development, graphics and multimedia, and technical training/support roles. Lateral entry students (from BCA/B.Sc backgrounds) join directly into the 3rd semester, completing the programme in a shorter overall duration than the regular track."
+  },
+  {
+    "id": "faq_247",
+    "question": "What is B.Tech Electrical and Electronics Engineering (EEE) like at REVA University?",
+    "answer": "REVA University's School of Electrical and Electronics Engineering was established in 2014. Alongside the B.Tech programme, the school offers M.Tech in Advanced Power Electronics and in Power & Energy Systems. Students receive updated curriculum content geared toward competitive exams like GATE, GRE, IES, and CAT, along with dedicated faculty support for entrepreneurship and placement preparation, communication and team-management skill-building, and student counselling support."
+  },
+  {
+    "id": "faq_248",
+    "question": "What is B.Tech Information Science and Engineering (ISE) at REVA University?",
+    "answer": "B.Tech in Information Science and Engineering at REVA University focuses on information systems, data engineering, and the science underlying modern computing — particularly the organisation, representation, and retrieval of information at scale. The curriculum covers data structures, algorithms, information retrieval, database systems, knowledge engineering, software engineering, and human-computer interaction, along with emerging areas like cloud computing, semantic web technologies, and enterprise information management. Graduates are prepared to manage and architect knowledge-intensive, AI-augmented information systems for modern enterprises."
+  },
+  {
+    "id": "faq_249",
+    "question": "What is B.Tech Robotics and Artificial Intelligence at REVA University?",
+    "answer": "B.Tech in Robotics and Artificial Intelligence at REVA University is an interdisciplinary programme drawing from Electronics & Communication Engineering, Mechanical Engineering, and Electrical & Electronics Engineering. Students learn the construction, design, application, and operation of robots, preparing for careers in automation and AI-driven robotics across industry, government, academia, and research, with an emphasis on multidisciplinary teamwork and continuous professional development."
+  },
+  {
+    "id": "faq_250",
+    "question": "Does REVA University offer Mechatronics Engineering?",
+    "answer": "Yes, REVA University offers B.Tech in Mechatronics Engineering, covering Machine Learning & AI, IoT & Cyber-Physical Systems, Signal Conditioning & Data Acquisition Systems, Sensors and Transducers, Industrial Robotics, Industrial Automation, Advanced Microcontrollers & Embedded Systems, PLC & SCADA, Kinematics & Dynamics of Machines, Computer Vision, and Smart Materials. The curriculum is designed to meet industry, R&D, and competitive exam requirements (GATE, IES). Career applications span Industrial Automation, Robotics, Instrumentation, Semiconductor & PCB Design, Aerospace, Automotive, Sensor Technology, and Biomedical Systems."
+  },
+    {
+    "id": "faq_251",
+    "question": "What Science programmes does REVA University offer (Biotechnology, Microbiology, Chemistry)?",
+    "answer": "REVA University offers a B.Sc. in Biotechnology, Biochemistry, and Genetics as a triple-major, 3-year (6 semester) programme covering Cell Biology, Microbiology, Genetic Engineering, Biochemistry, and Medical/Animal/Forensic/Environmental Biotechnology, with an AI-integrated, industry-aligned curriculum including semester-wise industrial visits and access to MOOC platforms (SWAYAM, Coursera). A separate B.Sc. in Microbiology, Chemistry, and Genetics is also offered as a 3-year, 6-semester programme. At the postgraduate level, M.Sc. in Biotechnology and M.Sc. in Biochemistry are available, both with a strong research and industry-application focus. Career paths span biotechnology, chemical, and pharmaceutical industries, diagnostic labs, microbiology firms, food and agricultural industries, and research institutions."
+  },
+  {
+    "id": "faq_252",
+    "question": "What are the career opportunities and specializations within REVA's Microbiology programme?",
+    "answer": "REVA University's Microbiology programme (within the Department of Biotechnology) offers specializations including Industrial Microbiology, Environmental Microbiology, and Medical Microbiology. Students study Clinical Microbiology, Medical Biochemistry, Pharmaceutical Microbiology, Molecular Immunology, and Molecular Enzymology, with hands-on training in microbial identification, antibiotic sensitivity testing, molecular diagnostics, and pharmaceutical quality control. Career roles include Clinical Microbiologist, Diagnostic Laboratory Specialist, Pharmaceutical Quality Control Officer, Research Scientist, and Infection Control Specialist."
+  },
+    {
+    "id": "faq_253",
+    "question": "What practical training and internship opportunities does REVA's law programme offer?",
+    "answer": "REVA University's School of Legal Studies emphasizes practical legal education through Moot Court competitions, Legal Aid Clinics, Lok Adalat participation, and legal-aid camps in rural communities. Students complete internships under NGOs, Trial and Appellate Advocates, the Judiciary, Legal Regulatory Authorities, law firms, companies, and local self-governments, including outstation internships in metro cities. The curriculum also includes guest lectures by legal professionals, monthly Q&A sessions with entrepreneurs, and computer skills training (MS-Excel, Word). Admission to B.A. LL.B. and B.B.A. LL.B. is based on CLAT, LSAT, or REVA CLAT (REVA's own Common Law Aptitude Test)."
+  },
+  {
+    "id": "faq_254",
+    "question": "What LLM specializations does REVA University offer and what careers follow?",
+    "answer": "REVA University offers a 1-year LL.M. (2 semesters) with specializations in Business & Corporate Law and Criminal Law, through its BCI-affiliated School of Legal Studies. Eligibility requires an LLB (3-year or 5-year integrated) with a minimum of 55% from a recognized university, with admission via CLAT-PG score or LLB merit. Career paths after LL.M. include senior advocate specializing in law, legal academia, law officer roles in government or public sector undertakings, specialized corporate counsel, and judicial services officer."
+  },
+    {
+    "id": "faq_255",
+    "question": "What facilities and support does REVA's School of Architecture offer, and how do B.Arch placements work?",
+    "answer": "REVA University's School of Architecture (established 2015, supported by DivyaSree Developers) offers spacious design studios, a construction yard, specialized labs (Climatology, Construction, Material, Fabrication, 3D Printing), an Architecture Studio-Gallery for student work, and a dedicated architecture library with global journals. Pedagogy is studio-driven with site visits, workshops, software/simulation tools, international immersion programmes, and research mentorship. A B.Arch in Digital Architecture variant is also offered, along with a doctoral research programme in architecture and planning. Unlike REVA's engineering programmes, dedicated campus placement drives specifically for B.Arch have historically been more limited — the Career Development Centre does liaise with architectural firms and real estate companies for internships and job opportunities, and many architecture graduates also pursue self-employment or start their own firms. Prospective students should confirm the current state of architecture-specific placements directly with the School."
+  },
+    {
+    "id": "faq_257",
+    "question": "What B.Com and BBA specializations does REVA University offer?",
+    "answer": "REVA University's School of Commerce (established 2014) offers B.Com with specializations in Accounting and Taxation, Economics and Finance, Statistics and Accounting, Banking and Insurance, Corporate Governance and Auditing, Accounting and FinTech, and Finance and Data Analysis, all under the Choice Based Credit System (CBCS). Eligibility requires 10+2 with a minimum of 50% marks. BBA offerings include a specialization in International Business and Entrepreneurship. Career paths span public, private, and corporate organizations, as well as government departments including Railways, Defence (Army, Navy, Air Force), and civil services."
+  },
+  {
+    "id": "faq_258",
+    "question": "What Performing Arts programmes does REVA University offer?",
+    "answer": "REVA University's School of Performing Arts and Indic Studies (SoPA & IS) was the first private university in India to offer UGC-approved graduate and postgraduate degrees in Performing Arts, specializing in theatre, dance, and music. REVA is the only university in South India offering a Master's in Kathak, and a Master's and Diploma in Odissi, alongside Master's programmes in Bharatanatyam, Kuchipudi, and Mohiniattam — an offering no other Indian university matches according to the university. Programmes include a BA (Honours) in Music, Dance and Theatre, a triple-major BA in Performing Arts, English and Psychology (BAPaEP), Diploma and Certificate courses in classical dance forms, Masters in Hindustani and Carnatic Vocals, and Diploma/PG Diploma programmes in Indic Studies/Indology. Career paths include performer, educator, arts administrator, and roles in media and creative industries."
+  },
+    {
+    "id": "faq_259",
+    "question": "What is the quality of faculty at REVA University?",
+    "answer": "REVA University emphasizes highly qualified faculty across its schools, with many holding PhDs and active involvement in research, industry consultation, and curriculum design. Individual schools (such as Electrical & Electronics Engineering) run dedicated faculty teams for competitive exam preparation (GATE, GRE, IES, CAT) and entrepreneurship mentoring. Faculty are involved in Board of Studies committees that regularly update program outcomes and curricula in consultation with industry experts. For faculty profiles specific to a department or school, the official REVA University website lists individual faculty pages under each school."
+  },
+    {
+    "id": "faq_260",
+    "question": "Who founded REVA University and who leads it?",
+    "answer": "REVA University was founded by Dr. P. Shyama Raju, who established the REVA Group of Educational Institutions in 2004 under the Rukmini Educational Charitable Trust (a unit of the DivyaSree Group). The Karnataka Government invited the Trust to start REVA University, which was established in 2012 under the Government of Karnataka Act. Dr. P. Shyama Raju serves as Founder and Chancellor of REVA University, and is also Chairman of the Rukmini Educational Charitable Trust and Chairman & Managing Director of DivyaSree Developers Pvt. Ltd. He holds an honorary doctorate from Visvesvaraya Technological University (2015) for his contributions to higher education. Dr. Sanjay R. Chitnis serves as Vice-Chancellor. REVA University has over 1,000 staff members and more than 14,000 undergraduate and 2,000 postgraduate students."
+  },
+    {
+    "id": "faq_261",
+    "question": "What is the actual placement process at REVA University, and what types of job offers do companies give?",
+    "answer": "REVA University's campus placement process typically follows these stages: companies register with the Career Development Centre (CDC) and share eligibility criteria (CGPA, branch, backlog rules); shortlisted students attend an aptitude test, followed by a group discussion (for some companies), then technical interview(s), and finally an HR interview. Students who clear all rounds receive an official offer letter. Offers generally fall into a few categories: a 'Dream Offer' refers to a good, above-average package; a 'Super Dream Offer' refers to the highest-tier packages offered by top recruiters; and some companies also make international offers. Separately, many students do industrial internships (typically starting from the 5th semester, lasting anywhere from a few weeks to several months) — strong internship performance can lead to a Pre-Placement Offer (PPO), where the company offers a full-time role directly based on internship performance, sometimes skipping further interview rounds. Whether a specific offer is full-time, internship, or PPO depends entirely on the recruiting company's own hiring process for that season — students should check each company's specific offer terms during the placement drive."
   }
+
+
 ]
